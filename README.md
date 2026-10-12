@@ -73,3 +73,5 @@ Isso recria `dados/`, `resultado_query.csv` e `painel_margem.html` do zero.
 ## Autor
 
 Jean Neumann — análise de dados / BI.
+
+LinkedIn: https://www.linkedin.com/in/jean-neumann/
