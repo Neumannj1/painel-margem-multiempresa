@@ -1,5 +1,7 @@
 # Painel de Margem Multiempresa
 
+**Português** · [Español](README.es.md)
+
 Case de análise de dados ponta a ponta: geração de uma base fictícia de um grupo varejista com 5 empresas, modelagem em MySQL, consulta SQL de margem consolidada, validação cruzada dos resultados e um dashboard HTML interativo para explorar os números.
 
 **Demo:** https://neumannj1.github.io/painel-margem-multiempresa/
