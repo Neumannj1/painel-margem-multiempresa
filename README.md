@@ -13,6 +13,22 @@ O case simula um grupo varejista multiempresa (hidráulica, elétrica, ferrament
 
 O objetivo do painel é permitir enxergar esses dois sinais filtrando por empresa, loja, categoria e mês.
 
+## O que isso resolve para um negócio
+
+Em um grupo com várias empresas e lojas, a margem raramente cai de uma vez: ela escorre aos poucos e some dentro do faturamento total, que continua crescendo. O painel responde, sem abrir planilha, às perguntas que um dono ou gestor realmente faz:
+
+- **Estamos ganhando ou perdendo margem?** O grupo fecha o ano com R$ 224,6 mi de receita líquida e 38,3% de margem bruta, e o painel mostra a evolução mês a mês por empresa.
+- **Onde está o problema?** Os alertas apontam a Voltare Elétrica: a margem foi de 35,2% para 31,0% (−4,2 p.p.) porque os descontos subiram de 2,0% para 8,0% da receita bruta.
+- **É desconto ou é custo?** O caso da Revesta Ribeirão Preto é diferente: o custo subiu e o preço não acompanhou, com o markup caindo de 1,59 para 1,55 e a margem de 35,6% para 34,0%. Mesmo sintoma, causa oposta, ação diferente.
+- **Quais lojas e categorias sustentam o resultado?** O ranking de lojas e o ranking de categorias mostram quem puxa a margem para cima e quem puxa para baixo.
+
+Dois cuidados de método que importam em qualquer projeto de dados para cliente:
+
+- **Os números são conferidos.** O total da query SQL é validado contra um cálculo independente em pandas antes de virar gráfico.
+- **Os alertas são calculados, não escritos à mão.** Se a base mudar, os textos e os status das lojas mudam junto, sem retrabalho manual.
+
+Todos os valores acima vêm da base fictícia; o que o projeto demonstra é o método, não um resultado real de mercado.
+
 ## Stack
 
 - **Python (pandas, numpy)** — geração da base sintética e montagem dos dados do dashboard
