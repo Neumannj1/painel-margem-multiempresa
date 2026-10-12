@@ -1,0 +1,901 @@
+mes,empresa_id,empresa,loja_id,nome_loja,categoria,notas,itens,receita_bruta,descontos,receita_liquida,cmv,margem_bruta,margem_pct
+2025-10,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,324,695,1091416.92,22907.01,1068509.91,670898.05,397611.86,37.21
+2025-10,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,400,850,755789.15,15579.21,740209.94,475199.18,265010.76,35.8
+2025-10,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,347,860,391704.14,8293.81,383410.33,243256.5,140153.83,36.55
+2025-10,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,388,1502,243868.74,4794.46,239074.28,145630.78,93443.5,39.09
+2025-10,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,412,1680,108894.62,2253.3,106641.32,67382.92,39258.4,36.81
+2025-10,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,199,418,668682.39,13932.58,654749.81,407889.07,246860.74,37.7
+2025-10,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,245,526,451436.22,10049.38,441386.84,283084.81,158302.03,35.86
+2025-10,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,230,556,275709.24,5407.05,270302.19,170566.53,99735.66,36.9
+2025-10,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,248,960,154931.82,3342.49,151589.33,92826.94,58762.39,38.76
+2025-10,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,275,1125,72324.56,1479.27,70845.29,44678.48,26166.81,36.94
+2025-10,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,144,292,468763.0,9821.79,458941.21,286288.94,172652.27,37.62
+2025-10,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,167,333,282443.85,5724.63,276719.22,177497.81,99221.41,35.86
+2025-10,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,156,350,165011.27,3363.46,161647.81,102808.16,58839.65,36.4
+2025-10,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,177,665,107772.96,2461.28,105311.68,63791.61,41520.07,39.43
+2025-10,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,183,765,49090.44,1001.8,48088.64,30611.13,17477.51,36.34
+2025-10,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,381,1576,125206.51,2681.04,122525.47,80933.48,41591.99,33.95
+2025-10,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,371,1010,317254.66,6560.25,310694.41,194819.15,115875.26,37.3
+2025-10,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,369,1138,192822.21,4005.18,188817.03,125459.29,63357.74,33.56
+2025-10,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,457,1300,442334.51,8597.86,433736.65,282155.43,151581.22,34.95
+2025-10,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,361,1520,80363.97,1741.87,78622.1,53161.69,25460.41,32.38
+2025-10,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,235,984,79625.11,1773.69,77851.42,51305.72,26545.7,34.1
+2025-10,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,229,655,202959.19,4189.36,198769.83,123557.4,75212.43,37.84
+2025-10,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,230,681,119235.18,2542.59,116692.59,77014.0,39678.59,34.0
+2025-10,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,236,637,219227.39,4348.98,214878.41,139735.03,75143.38,34.97
+2025-10,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,196,822,43631.1,872.61,42758.49,29149.89,13608.6,31.83
+2025-10,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,130,542,45069.12,899.44,44169.68,28999.45,15170.23,34.35
+2025-10,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,138,394,120254.87,2555.82,117699.05,74148.59,43550.46,37.0
+2025-10,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,122,326,62635.39,1443.41,61191.98,41108.17,20083.81,32.82
+2025-10,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,154,452,143063.08,2958.07,140105.01,92325.52,47779.49,34.1
+2025-10,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,126,556,29576.36,651.52,28924.84,19589.29,9335.55,32.28
+2025-10,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,265,1013,117760.06,2436.13,115323.93,70838.32,44485.61,38.57
+2025-10,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,391,884,1444548.82,30082.49,1414466.33,845530.98,568935.35,40.22
+2025-10,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,410,1558,186440.9,3870.9,182570.0,105755.22,76814.78,42.07
+2025-10,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,440,1896,67002.67,1322.13,65680.54,40089.47,25591.07,38.96
+2025-10,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,425,942,373818.93,7665.66,366153.27,214236.4,151916.87,41.49
+2025-10,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,158,629,75815.98,1510.99,74304.99,45409.94,28895.05,38.89
+2025-10,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,233,493,770249.19,16338.61,753910.58,452475.43,301435.15,39.98
+2025-10,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,261,1050,119005.39,2453.92,116551.47,67837.3,48714.17,41.8
+2025-10,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,230,971,33633.25,663.45,32969.8,20091.85,12877.95,39.06
+2025-10,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,228,465,195955.55,4344.5,191611.05,110935.32,80675.73,42.1
+2025-10,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,105,408,53309.28,1017.92,52291.36,31809.21,20482.15,39.17
+2025-10,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,148,344,533760.1,12190.45,521569.65,313818.85,207750.8,39.83
+2025-10,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,184,764,89909.96,1909.87,88000.09,50937.61,37062.48,42.12
+2025-10,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,160,654,22793.19,515.08,22278.11,13532.0,8746.11,39.26
+2025-10,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,148,326,133862.72,2827.3,131035.42,76493.93,54541.49,41.62
+2025-10,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,372,1540,142165.17,2894.69,139270.48,92767.92,46502.56,33.39
+2025-10,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,362,1600,87661.37,1723.5,85937.87,54299.71,31638.16,36.82
+2025-10,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,414,905,598183.93,12738.95,585444.98,372841.1,212603.88,36.31
+2025-10,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,384,1620,309366.33,6362.79,303003.54,189644.06,113359.48,37.41
+2025-10,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,336,798,266176.1,5348.37,260827.73,173759.69,87068.04,33.38
+2025-10,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,257,981,91504.55,1933.7,89570.85,59982.0,29588.85,33.03
+2025-10,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,254,1087,60030.16,1231.05,58799.11,37298.94,21500.17,36.57
+2025-10,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,233,506,343260.48,7410.74,335849.74,213840.11,122009.63,36.33
+2025-10,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,224,877,168911.79,3672.31,165239.48,103943.18,61296.3,37.1
+2025-10,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,189,422,139625.71,3146.69,136479.02,91234.27,45244.75,33.15
+2025-10,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,165,740,69564.29,1474.47,68089.82,45090.08,22999.74,33.78
+2025-10,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,134,557,31002.44,644.99,30357.45,19145.32,11212.13,36.93
+2025-10,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,154,329,213120.46,4242.72,208877.74,133764.25,75113.49,35.96
+2025-10,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,158,641,124549.44,2545.98,122003.46,76391.45,45612.01,37.39
+2025-10,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,134,277,93251.09,2043.97,91207.12,60967.41,30239.71,33.15
+2025-10,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,288,868,175459.22,3546.14,171913.08,98099.3,73813.78,42.94
+2025-10,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,399,1129,361633.41,7758.2,353875.21,207612.45,146262.76,41.33
+2025-10,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,333,663,1157070.53,21629.16,1135441.37,649180.04,486261.33,42.83
+2025-10,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,474,1259,1044574.57,22030.82,1022543.75,624286.07,398257.68,38.95
+2025-10,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,330,1138,189168.78,4099.16,185069.62,108233.99,76835.63,41.52
+2025-10,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,209,672,134447.25,2924.75,131522.5,75131.11,56391.39,42.88
+2025-10,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,260,723,232940.94,4868.9,228072.04,132907.3,95164.74,41.73
+2025-10,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,247,541,902577.93,18459.35,884118.58,511299.04,372819.54,42.17
+2025-10,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,307,776,645862.06,13159.84,632702.22,386059.56,246642.66,38.98
+2025-10,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,244,905,147533.03,2973.51,144559.52,84094.27,60465.25,41.83
+2025-10,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,99,298,62887.19,1327.33,61559.86,35203.64,26356.22,42.81
+2025-10,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,150,429,131376.27,2826.45,128549.82,75368.19,53181.63,41.37
+2025-10,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,129,278,509796.3,10777.76,499018.54,290614.82,208403.72,41.76
+2025-10,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,160,413,343394.61,7024.71,336369.9,205821.33,130548.57,38.81
+2025-10,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,144,543,86476.21,1855.33,84620.88,49555.93,35064.95,41.44
+2025-11,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,290,589,933006.43,20281.52,912724.91,572546.68,340178.23,37.27
+2025-11,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,368,730,640818.59,13332.18,627486.41,402790.38,224696.03,35.81
+2025-11,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,355,902,416235.29,8042.26,408193.03,257289.33,150903.7,36.97
+2025-11,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,406,1637,263051.3,5847.36,257203.94,157636.14,99567.8,38.71
+2025-11,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,371,1542,101401.29,2084.66,99316.63,62677.86,36638.77,36.89
+2025-11,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,228,507,812886.23,16960.09,795926.14,498974.95,296951.19,37.31
+2025-11,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,245,515,441614.76,9597.76,432017.0,276930.95,155086.05,35.9
+2025-11,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,231,611,250979.94,4992.03,245987.91,156559.65,89428.26,36.35
+2025-11,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,255,959,156571.48,2982.27,153589.21,93087.39,60501.82,39.39
+2025-11,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,275,1169,78655.38,1595.99,77059.39,48636.64,28422.75,36.88
+2025-11,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,120,239,397647.12,7659.58,389987.54,241085.61,148901.93,38.18
+2025-11,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,134,282,260782.63,5320.61,255462.02,164007.37,91454.65,35.8
+2025-11,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,112,293,129408.19,2973.46,126434.73,80558.93,45875.8,36.28
+2025-11,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,148,604,95645.36,2049.53,93595.83,56977.59,36618.24,39.12
+2025-11,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,140,585,37286.02,750.49,36535.53,23172.49,13363.04,36.58
+2025-11,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,365,1499,120622.87,2708.51,117914.36,77704.86,40209.5,34.1
+2025-11,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,354,1003,313133.81,6032.22,307101.59,191776.27,115325.32,37.55
+2025-11,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,370,1108,198238.59,4114.18,194124.41,128313.82,65810.59,33.9
+2025-11,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,394,1108,388328.19,8066.47,380261.72,246816.36,133445.36,35.09
+2025-11,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,348,1479,79357.77,1487.3,77870.47,52615.93,25254.54,32.43
+2025-11,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,256,1048,84302.49,1818.44,82484.05,54172.05,28312.0,34.32
+2025-11,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,226,624,198603.88,4073.36,194530.52,121252.63,73277.89,37.67
+2025-11,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,222,638,113297.25,2324.96,110972.29,73485.92,37486.37,33.78
+2025-11,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,271,724,264086.02,5290.47,258795.55,166416.08,92379.47,35.7
+2025-11,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,231,919,50951.9,1048.38,49903.52,33724.25,16179.27,32.42
+2025-11,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,138,573,48545.96,968.16,47577.8,31194.12,16383.68,34.44
+2025-11,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,151,427,149403.93,3032.86,146371.07,90921.02,55450.05,37.88
+2025-11,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,154,430,74546.78,1551.38,72995.4,48880.01,24115.39,33.04
+2025-11,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,171,481,162448.17,3375.91,159072.26,103643.79,55428.47,34.84
+2025-11,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,133,562,30105.42,613.13,29492.29,20001.07,9491.22,32.18
+2025-11,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,236,962,114548.31,2302.62,112245.69,69164.58,43081.11,38.38
+2025-11,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,387,829,1369264.57,29297.98,1339966.59,804936.79,535029.8,39.93
+2025-11,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,394,1455,171854.75,3610.0,168244.75,97998.29,70246.46,41.75
+2025-11,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,391,1674,59773.11,1251.02,58522.09,35466.16,23055.93,39.4
+2025-11,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,371,789,323459.77,7171.65,316288.12,184925.3,131362.82,41.53
+2025-11,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,182,719,82697.77,1685.55,81012.22,49789.16,31223.06,38.54
+2025-11,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,237,499,812462.32,18199.29,794263.03,476140.57,318122.46,40.05
+2025-11,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,283,1102,133073.82,2807.31,130266.51,75805.97,54460.54,41.81
+2025-11,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,251,1037,35290.15,722.21,34567.94,21136.21,13431.73,38.86
+2025-11,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,246,535,220034.1,4618.91,215415.19,125124.53,90290.66,41.91
+2025-11,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,85,325,37539.47,737.97,36801.5,22587.59,14213.91,38.62
+2025-11,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,132,267,436671.27,9619.0,427052.27,255242.72,171809.55,40.23
+2025-11,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,157,611,76243.26,1785.38,74457.88,43416.81,31041.07,41.69
+2025-11,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,157,666,23751.41,495.31,23256.1,14058.31,9197.79,39.55
+2025-11,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,150,327,131117.59,2655.87,128461.72,75461.12,53000.6,41.26
+2025-11,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,405,1658,164030.86,3460.53,160570.33,107130.43,53439.9,33.28
+2025-11,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,370,1535,85849.5,1675.46,84174.04,53230.75,30943.29,36.76
+2025-11,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,370,770,502994.06,10242.63,492751.43,311928.3,180823.13,36.7
+2025-11,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,395,1611,307259.39,6350.98,300908.41,188462.43,112445.98,37.37
+2025-11,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,296,657,216289.0,4511.79,211777.21,141668.36,70108.85,33.11
+2025-11,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,248,1023,98045.37,1970.1,96075.27,63673.27,32402.0,33.73
+2025-11,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,218,913,50473.5,1032.08,49441.42,31407.27,18034.15,36.48
+2025-11,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,222,484,325469.27,6477.34,318991.93,202967.54,116024.39,36.37
+2025-11,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,230,1005,190401.0,3670.81,186730.19,117406.84,69323.35,37.12
+2025-11,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,193,478,158857.27,3581.65,155275.62,103948.86,51326.76,33.06
+2025-11,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,129,490,46692.89,925.98,45766.91,30775.32,14991.59,32.76
+2025-11,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,139,555,31047.09,615.58,30431.51,19333.53,11097.98,36.47
+2025-11,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,135,299,197114.36,4053.94,193060.42,122294.51,70765.91,36.65
+2025-11,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,150,644,118700.59,2321.21,116379.38,72911.69,43467.69,37.35
+2025-11,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,133,315,105243.2,2429.59,102813.61,68827.78,33985.83,33.06
+2025-11,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,282,876,176885.2,3747.03,173138.17,98504.7,74633.47,43.11
+2025-11,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,416,1132,368636.34,7208.45,361427.89,211214.7,150213.19,41.56
+2025-11,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,343,731,1224114.33,24606.64,1199507.69,693133.95,506373.74,42.22
+2025-11,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,481,1221,1057878.78,21008.12,1036870.66,632218.81,404651.85,39.03
+2025-11,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,389,1478,241515.96,4801.66,236714.3,137660.66,99053.64,41.85
+2025-11,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,210,639,115802.36,2376.71,113425.65,64176.43,49249.22,43.42
+2025-11,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,267,769,245688.82,5112.06,240576.76,139574.95,101001.81,41.98
+2025-11,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,221,464,788284.18,17436.25,770847.93,445038.35,325809.58,42.27
+2025-11,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,329,856,750056.82,16175.49,733881.33,447587.88,286293.45,39.01
+2025-11,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,258,939,146933.22,2866.67,144066.55,83136.17,60930.38,42.29
+2025-11,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,125,390,82952.52,1594.06,81358.46,46388.05,34970.41,42.98
+2025-11,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,160,490,154666.64,2928.13,151738.51,88320.24,63418.27,41.79
+2025-11,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,144,296,504461.74,10516.3,493945.44,283764.22,210181.22,42.55
+2025-11,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,190,499,427528.83,9137.72,418391.11,255285.0,163106.11,38.98
+2025-11,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,158,604,96806.2,2213.17,94593.03,56086.01,38507.02,40.71
+2025-12,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,372,752,1199909.77,26576.98,1173332.79,737261.72,436071.07,37.17
+2025-12,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,443,936,834722.62,17973.97,816748.65,524732.77,292015.88,35.75
+2025-12,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,442,1126,532594.1,11108.16,521485.94,332319.76,189166.18,36.27
+2025-12,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,460,1711,293609.68,6224.89,287384.79,175443.94,111940.85,38.95
+2025-12,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,441,1860,121997.23,2423.3,119573.93,75648.1,43925.83,36.74
+2025-12,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,243,496,815780.06,16997.52,798782.54,496330.89,302451.65,37.86
+2025-12,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,316,712,609849.8,12662.59,597187.21,383019.21,214168.0,35.86
+2025-12,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,302,833,356477.39,7172.04,349305.35,221628.03,127677.32,36.55
+2025-12,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,308,1216,201938.39,4012.54,197925.85,121214.2,76711.65,38.76
+2025-12,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,332,1308,84756.51,1804.26,82952.25,52736.58,30215.67,36.43
+2025-12,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,142,305,490837.37,10985.35,479852.02,301797.42,178054.6,37.11
+2025-12,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,183,374,329348.75,6746.26,322602.49,206363.38,116239.11,36.03
+2025-12,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,187,488,221709.46,4130.46,217579.0,137344.92,80234.08,36.88
+2025-12,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,194,664,109794.01,2244.04,107549.97,65985.83,41564.14,38.65
+2025-12,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,200,826,54622.46,1112.17,53510.29,33743.22,19767.07,36.94
+2025-12,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,446,1898,157090.05,3349.13,153740.92,101121.53,52619.39,34.23
+2025-12,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,444,1288,393811.05,8087.91,385723.14,240933.27,144789.87,37.54
+2025-12,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,457,1283,234085.1,4603.49,229481.61,151859.36,77622.25,33.83
+2025-12,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,497,1370,480083.01,9234.1,470848.91,304331.42,166517.49,35.37
+2025-12,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,465,1892,103859.54,2115.41,101744.13,68746.75,32997.38,32.43
+2025-12,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,300,1243,104171.95,2106.11,102065.84,67087.01,34978.83,34.27
+2025-12,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,291,873,261722.46,5372.62,256349.84,160262.22,96087.62,37.48
+2025-12,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,308,940,167967.91,3781.88,164186.03,108569.07,55616.96,33.87
+2025-12,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,309,882,288025.95,6049.06,281976.89,185031.36,96945.53,34.38
+2025-12,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,288,1144,63862.59,1344.03,62518.56,42090.43,20428.13,32.68
+2025-12,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,156,657,51781.94,1093.66,50688.28,33071.06,17617.22,34.76
+2025-12,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,170,510,149281.74,3001.76,146279.98,91594.4,54685.58,37.38
+2025-12,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,144,445,78515.97,1652.64,76863.33,51233.35,25629.98,33.34
+2025-12,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,189,493,175733.52,3522.06,172211.46,110928.54,61282.92,35.59
+2025-12,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,163,638,35265.65,787.13,34478.52,23585.93,10892.59,31.59
+2025-12,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,290,1191,134037.21,2892.39,131144.82,80108.49,51036.33,38.92
+2025-12,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,432,904,1511483.42,31195.37,1480288.05,882122.76,598165.29,40.41
+2025-12,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,474,1827,218481.37,4558.76,213922.61,125122.47,88800.14,41.51
+2025-12,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,455,1858,65576.69,1364.98,64211.71,39118.19,25093.52,39.08
+2025-12,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,490,1041,439016.56,9342.12,429674.44,250701.7,178972.74,41.65
+2025-12,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,214,843,98937.83,2033.88,96903.95,59542.32,37361.63,38.56
+2025-12,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,295,609,1061904.96,20959.96,1040945.0,620080.44,420864.56,40.43
+2025-12,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,305,1152,135884.21,2855.84,133028.37,77653.66,55374.71,41.63
+2025-12,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,312,1290,45011.82,896.58,44115.24,26719.5,17395.74,39.43
+2025-12,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,336,699,290134.55,5895.91,284238.64,166090.52,118148.12,41.57
+2025-12,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,123,505,61483.86,1393.78,60090.08,37180.03,22910.05,38.13
+2025-12,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,176,364,576954.47,11768.42,565186.05,336827.47,228358.58,40.4
+2025-12,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,197,829,101463.61,2176.25,99287.36,57713.83,41573.53,41.87
+2025-12,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,173,693,24192.53,522.14,23670.39,14260.3,9410.09,39.75
+2025-12,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,169,359,145850.26,3306.74,142543.52,83074.84,59468.68,41.72
+2025-12,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,441,1818,172777.39,3457.83,169319.56,112759.07,56560.49,33.4
+2025-12,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,420,1801,99796.05,2115.42,97680.63,62077.03,35603.6,36.45
+2025-12,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,438,968,635182.14,12991.19,622190.95,395407.98,226782.97,36.45
+2025-12,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,445,1849,360213.71,7238.74,352974.97,219892.67,133082.3,37.7
+2025-12,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,368,846,285236.8,5573.55,279663.25,185492.69,94170.56,33.67
+2025-12,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,287,1125,109534.71,2094.63,107440.08,71513.72,35926.36,33.44
+2025-12,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,271,1128,63755.39,1351.56,62403.83,39648.54,22755.29,36.46
+2025-12,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,290,602,402490.13,8273.14,394216.99,250853.0,143363.99,36.37
+2025-12,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,303,1245,227250.87,4631.69,222619.18,141666.8,80952.38,36.36
+2025-12,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,244,556,179910.19,3410.12,176500.07,117255.68,59244.39,33.57
+2025-12,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,165,640,59630.25,1200.18,58430.07,38999.25,19430.82,33.25
+2025-12,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,174,757,41594.96,935.16,40659.8,25906.45,14753.35,36.28
+2025-12,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,188,392,261906.64,5570.27,256336.37,164119.09,92217.28,35.98
+2025-12,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,196,780,146539.76,3143.63,143396.13,90177.35,53218.78,37.11
+2025-12,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,153,359,125394.28,2634.62,122759.66,81527.32,41232.34,33.59
+2025-12,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,388,1143,225648.07,4593.28,221054.79,125543.83,95510.96,43.21
+2025-12,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,558,1539,501030.9,10238.13,490792.77,285485.13,205307.64,41.83
+2025-12,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,486,1004,1675453.15,33039.85,1642413.3,943232.81,699180.49,42.57
+2025-12,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,613,1538,1365654.35,27270.15,1338384.2,817434.21,520949.99,38.92
+2025-12,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,546,2103,347191.1,7407.69,339783.41,197659.5,142123.91,41.83
+2025-12,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,230,709,135642.67,2698.18,132944.49,75592.18,57352.31,43.14
+2025-12,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,374,1090,349529.74,7109.87,342419.87,198256.87,144163.0,42.1
+2025-12,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,280,579,954725.19,18490.9,936234.29,541460.63,394773.66,42.17
+2025-12,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,397,1025,864127.75,17446.65,846681.1,515182.92,331498.18,39.15
+2025-12,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,336,1226,194013.71,3853.69,190160.02,111178.62,78981.4,41.53
+2025-12,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,129,373,75299.91,1522.5,73777.41,41817.3,31960.11,43.32
+2025-12,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,194,600,189557.42,3819.35,185738.07,107627.92,78110.15,42.05
+2025-12,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,177,399,664693.26,13910.75,650782.51,378413.02,272369.49,41.85
+2025-12,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,243,672,554987.48,11372.63,543614.85,330912.31,212702.54,39.13
+2025-12,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,181,650,106670.32,2174.29,104496.03,61321.97,43174.06,41.32
+2026-01,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,242,514,828564.3,17260.56,811303.74,507587.37,303716.37,37.44
+2026-01,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,300,621,550139.29,10760.06,539379.23,345732.4,193646.83,35.9
+2026-01,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,267,718,318465.28,6628.15,311837.13,198481.64,113355.49,36.35
+2026-01,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,301,1168,196387.07,3834.33,192552.74,117314.09,75238.65,39.07
+2026-01,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,330,1346,88970.7,1849.45,87121.25,55172.75,31948.5,36.67
+2026-01,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,175,364,579587.1,12212.81,567374.29,355111.22,212263.07,37.41
+2026-01,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,214,450,388789.21,7530.58,381258.63,244010.28,137248.35,36.0
+2026-01,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,185,486,221819.82,4701.08,217118.74,137854.52,79264.22,36.51
+2026-01,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,207,834,138378.11,2719.52,135658.59,81876.79,53781.8,39.64
+2026-01,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,217,888,57866.28,1152.41,56713.87,35943.06,20770.81,36.62
+2026-01,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,96,185,302098.32,5957.38,296140.94,184418.34,111722.6,37.73
+2026-01,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,114,254,223550.43,4587.75,218962.68,140242.42,78720.26,35.95
+2026-01,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,111,284,133963.88,2543.14,131420.74,84207.94,47212.8,35.92
+2026-01,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,117,440,66687.76,1346.02,65341.74,39944.95,25396.79,38.87
+2026-01,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,102,419,26657.1,577.75,26079.35,16664.81,9414.54,36.1
+2026-01,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,286,1180,96157.8,1943.02,94214.78,61731.09,32483.69,34.48
+2026-01,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,302,844,252664.39,5722.47,246941.92,155064.75,91877.17,37.21
+2026-01,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,278,841,152863.39,2947.56,149915.83,99086.3,50829.53,33.91
+2026-01,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,339,930,326721.57,6786.98,319934.59,206474.93,113459.66,35.46
+2026-01,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,282,1185,67996.58,1355.65,66640.93,44940.16,21700.77,32.56
+2026-01,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,177,758,61829.91,1369.55,60460.36,39346.32,21114.04,34.92
+2026-01,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,201,612,179125.58,3749.61,175375.97,109579.59,65796.38,37.52
+2026-01,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,202,631,104976.32,2185.85,102790.47,68048.07,34742.4,33.8
+2026-01,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,218,616,216173.54,4611.13,211562.41,137273.9,74288.51,35.11
+2026-01,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,224,924,52087.05,1004.18,51082.87,34594.24,16488.63,32.28
+2026-01,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,124,494,40589.55,947.7,39641.85,26211.37,13430.48,33.88
+2026-01,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,127,363,106646.05,2272.36,104373.69,65212.35,39161.34,37.52
+2026-01,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,116,331,61780.87,1297.09,60483.78,39952.54,20531.24,33.95
+2026-01,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,129,352,116236.54,2584.43,113652.11,74151.76,39500.35,34.76
+2026-01,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,136,547,30787.61,575.44,30212.17,20384.58,9827.59,32.53
+2026-01,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,213,859,99050.26,1796.54,97253.72,59854.06,37399.66,38.46
+2026-01,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,309,639,1134145.11,22912.15,1111232.96,663605.1,447627.86,40.28
+2026-01,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,336,1311,159143.69,3499.86,155643.83,90388.35,65255.48,41.93
+2026-01,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,293,1200,44025.81,936.45,43089.36,26240.5,16848.86,39.1
+2026-01,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,321,680,268111.68,5618.05,262493.63,153949.23,108544.4,41.35
+2026-01,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,129,481,58385.83,1237.72,57148.11,34969.99,22178.12,38.81
+2026-01,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,182,382,649059.22,14472.01,634587.21,378827.71,255759.5,40.3
+2026-01,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,217,874,109437.47,2094.83,107342.64,62034.96,45307.68,42.21
+2026-01,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,204,878,31932.4,674.32,31258.08,18985.45,12272.63,39.26
+2026-01,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,214,454,187128.63,4066.34,183062.29,106744.75,76317.54,41.69
+2026-01,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,60,231,27815.56,536.45,27279.11,16755.3,10523.81,38.58
+2026-01,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,139,286,491717.45,10469.22,481248.23,285879.3,195368.93,40.6
+2026-01,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,153,613,68156.94,1405.75,66751.19,38611.13,28140.06,42.16
+2026-01,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,121,501,16670.63,342.86,16327.77,9830.21,6497.56,39.79
+2026-01,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,152,344,134410.82,2787.16,131623.66,77209.57,54414.09,41.34
+2026-01,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,285,1134,105847.19,2218.03,103629.16,69494.66,34134.5,32.94
+2026-01,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,291,1164,65984.86,1456.8,64528.06,40811.26,23716.8,36.75
+2026-01,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,317,668,443636.19,9139.21,434496.98,277426.74,157070.24,36.15
+2026-01,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,296,1207,232971.09,4620.33,228350.76,143096.5,85254.26,37.33
+2026-01,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,247,515,178968.58,3375.98,175592.6,116771.65,58820.95,33.5
+2026-01,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,216,904,83019.19,1695.03,81324.16,53765.49,27558.67,33.89
+2026-01,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,201,846,47677.18,928.77,46748.41,29539.21,17209.2,36.81
+2026-01,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,235,523,349305.04,7338.68,341966.36,217798.95,124167.41,36.31
+2026-01,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,218,937,176311.98,3294.41,173017.57,108982.22,64035.35,37.01
+2026-01,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,166,376,127519.89,2923.61,124596.28,83089.73,41506.55,33.31
+2026-01,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,120,506,48824.6,1016.76,47807.84,31982.98,15824.86,33.1
+2026-01,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,115,468,25908.42,500.62,25407.8,16187.17,9220.63,36.29
+2026-01,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,133,292,193140.61,4009.7,189130.91,121105.06,68025.85,35.97
+2026-01,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,120,490,92455.7,2042.67,90413.03,57424.18,32988.85,36.49
+2026-01,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,94,226,74924.49,1534.06,73390.43,48807.53,24582.9,33.5
+2026-01,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,324,989,201473.86,4072.58,197401.28,112728.82,84672.46,42.89
+2026-01,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,485,1435,461562.43,9361.17,452201.26,262203.37,189997.89,42.02
+2026-01,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,408,858,1428176.26,27789.93,1400386.33,801946.47,598439.86,42.73
+2026-01,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,575,1425,1250667.59,26738.55,1223929.04,749283.06,474645.98,38.78
+2026-01,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,455,1670,263532.79,5303.88,258228.91,150100.91,108128.0,41.87
+2026-01,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,225,667,139622.52,2724.72,136897.8,78310.18,58587.62,42.8
+2026-01,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,334,935,296608.19,5974.71,290633.48,169086.78,121546.7,41.82
+2026-01,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,275,598,1051340.99,23858.49,1027482.5,592293.66,435188.84,42.35
+2026-01,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,375,993,866686.71,17499.66,849187.05,517782.42,331404.63,39.03
+2026-01,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,314,1161,188771.74,3657.38,185114.36,108350.1,76764.26,41.47
+2026-01,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,139,413,85354.26,1752.89,83601.37,47374.23,36227.14,43.33
+2026-01,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,200,594,193165.06,4233.89,188931.17,109264.45,79666.72,42.17
+2026-01,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,159,332,579656.75,10879.19,568777.56,327314.91,241462.65,42.45
+2026-01,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,223,595,524570.89,10233.66,514337.23,314486.08,199851.15,38.86
+2026-01,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,182,647,106033.63,2216.54,103817.09,60920.92,42896.17,41.32
+2026-02,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,254,522,853710.14,17809.6,835900.54,521349.21,314551.33,37.63
+2026-02,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,307,657,578659.79,11588.66,567071.13,362953.18,204117.95,36.0
+2026-02,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,315,853,395043.89,8014.88,387029.01,245956.38,141072.63,36.45
+2026-02,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,292,1141,178640.6,3716.09,174924.51,106431.89,68492.62,39.16
+2026-02,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,311,1275,83385.53,1715.53,81670.0,51686.82,29983.18,36.71
+2026-02,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,176,334,536425.04,9374.26,527050.78,329838.72,197212.06,37.42
+2026-02,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,201,443,405264.49,8652.99,396611.5,254399.71,142211.79,35.86
+2026-02,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,194,423,207634.16,4197.76,203436.4,128955.13,74481.27,36.61
+2026-02,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,215,771,124861.08,2544.47,122316.61,74309.33,48007.28,39.25
+2026-02,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,208,857,57422.44,1250.41,56172.03,35212.73,20959.3,37.31
+2026-02,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,101,198,323899.6,7527.2,316372.4,197813.43,118558.97,37.47
+2026-02,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,117,262,219938.83,4217.41,215721.42,137870.35,77851.07,36.09
+2026-02,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,109,277,112321.2,2410.19,109911.01,70430.8,39480.21,35.92
+2026-02,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,111,411,67453.25,1346.55,66106.7,40091.3,26015.4,39.35
+2026-02,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,124,557,36555.94,797.66,35758.28,22835.23,12923.05,36.14
+2026-02,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,306,1293,105615.57,2343.8,103271.77,68145.0,35126.77,34.01
+2026-02,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,278,785,244343.59,4822.87,239520.72,149230.3,90290.42,37.7
+2026-02,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,277,802,142757.96,3062.29,139695.67,92738.9,46956.77,33.61
+2026-02,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,324,866,300629.49,6170.7,294458.79,191222.45,103236.34,35.06
+2026-02,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,267,1057,59584.47,1238.33,58346.14,39179.97,19166.17,32.85
+2026-02,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,196,792,62206.11,1207.79,60998.32,40001.61,20996.71,34.42
+2026-02,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,205,597,179908.77,3846.82,176061.95,110320.08,65741.87,37.34
+2026-02,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,216,738,128604.23,2709.9,125894.33,83936.5,41957.83,33.33
+2026-02,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,213,562,192666.13,4127.2,188538.93,123174.85,65364.08,34.67
+2026-02,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,168,650,37051.54,766.29,36285.25,24739.13,11546.12,31.82
+2026-02,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,94,397,32165.78,633.42,31532.36,20600.18,10932.18,34.67
+2026-02,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,104,276,86684.77,1986.29,84698.48,53058.06,31640.42,37.36
+2026-02,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,93,271,48925.92,892.37,48033.55,32170.08,15863.47,33.03
+2026-02,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,129,359,133158.77,2415.4,130743.37,84219.17,46524.2,35.58
+2026-02,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,88,373,20463.99,446.83,20017.16,13587.33,6429.83,32.12
+2026-02,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,186,670,79603.5,1716.04,77887.46,47951.92,29935.54,38.43
+2026-02,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,266,532,857474.05,18439.54,839034.51,504567.5,334467.01,39.86
+2026-02,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,293,1141,142141.84,2816.12,139325.72,80801.74,58523.98,42.01
+2026-02,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,262,1146,41876.89,900.94,40975.95,24960.19,16015.76,39.09
+2026-02,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,276,584,238868.57,4479.08,234389.49,136413.83,97975.66,41.8
+2026-02,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,128,494,57866.06,1196.76,56669.3,34926.42,21742.88,38.37
+2026-02,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,189,418,681172.21,13843.5,667328.71,398756.12,268572.59,40.25
+2026-02,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,189,734,86061.61,1766.38,84295.23,49113.48,35181.75,41.74
+2026-02,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,191,799,28699.24,576.4,28122.84,17210.52,10912.32,38.8
+2026-02,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,189,393,162481.5,3337.14,159144.36,92464.15,66680.21,41.9
+2026-02,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,75,298,36824.85,834.93,35989.92,22225.43,13764.49,38.25
+2026-02,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,115,231,384585.9,7677.78,376908.12,225684.26,151223.86,40.12
+2026-02,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,134,528,64114.95,1205.23,62909.72,36243.4,26666.32,42.39
+2026-02,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,132,584,20278.21,407.06,19871.15,12368.58,7502.57,37.76
+2026-02,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,128,276,118843.04,2337.3,116505.74,67350.51,49155.23,42.19
+2026-02,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,300,1234,115780.58,2350.28,113430.3,75549.89,37880.41,33.4
+2026-02,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,292,1267,70604.03,1511.07,69092.96,43947.24,25145.72,36.39
+2026-02,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,315,679,466649.85,10192.73,456457.12,290631.91,165825.21,36.33
+2026-02,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,304,1268,245333.33,5081.29,240252.04,149968.65,90283.39,37.58
+2026-02,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,241,548,178694.63,3626.65,175067.98,116811.04,58256.94,33.28
+2026-02,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,172,764,70876.47,1321.08,69555.39,46331.05,23224.34,33.39
+2026-02,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,165,718,39328.86,806.81,38522.05,24361.47,14160.58,36.76
+2026-02,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,184,382,261712.35,6024.2,255688.15,161393.33,94294.82,36.88
+2026-02,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,170,687,129537.1,2768.64,126768.46,79310.07,47458.39,37.44
+2026-02,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,150,352,113287.34,2443.06,110844.28,74274.82,36569.46,32.99
+2026-02,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,114,493,47074.8,1018.92,46055.88,30767.21,15288.67,33.2
+2026-02,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,95,392,21761.75,467.28,21294.47,13578.77,7715.7,36.23
+2026-02,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,121,249,176249.78,3899.31,172350.47,110687.8,61662.67,35.78
+2026-02,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,115,504,98802.29,2057.76,96744.53,61504.45,35240.08,36.43
+2026-02,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,89,182,60935.99,1130.6,59805.39,40148.59,19656.8,32.87
+2026-02,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,271,801,168969.01,3369.49,165599.52,94297.31,71302.21,43.06
+2026-02,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,344,1046,329327.55,6933.82,322393.73,186272.54,136121.19,42.22
+2026-02,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,333,717,1207468.14,26027.23,1181440.91,680844.26,500596.65,42.37
+2026-02,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,411,1080,929510.63,18851.3,910659.33,555220.28,355439.05,39.03
+2026-02,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,345,1283,209213.33,4272.62,204940.71,119330.79,85609.92,41.77
+2026-02,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,179,573,115686.55,2634.16,113052.39,64127.56,48924.83,43.28
+2026-02,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,250,750,239637.95,5152.05,234485.9,136101.72,98384.18,41.96
+2026-02,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,217,440,787248.5,18420.17,768828.33,445416.45,323411.88,42.07
+2026-02,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,291,767,688889.42,13962.51,674926.91,412469.55,262457.36,38.89
+2026-02,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,232,827,129078.97,2462.68,126616.29,74020.39,52595.9,41.54
+2026-02,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,95,288,58148.78,1287.11,56861.67,32053.53,24808.14,43.63
+2026-02,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,130,357,121141.4,2323.59,118817.81,68984.99,49832.82,41.94
+2026-02,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,115,257,453053.72,8959.64,444094.08,252051.26,192042.82,43.24
+2026-02,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,151,404,351617.01,7705.67,343911.34,210230.69,133680.65,38.87
+2026-02,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,128,460,71476.59,1548.57,69928.02,40993.59,28934.43,41.38
+2026-03,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,297,611,989749.67,19428.24,970321.43,605899.16,364422.27,37.56
+2026-03,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,310,668,583861.09,11625.02,572236.07,366099.0,206137.07,36.02
+2026-03,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,321,837,391568.91,7608.28,383960.63,243631.47,140329.16,36.55
+2026-03,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,343,1358,237188.48,4734.85,232453.63,141899.63,90554.0,38.96
+2026-03,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,371,1614,104266.47,2103.49,102162.98,64655.13,37507.85,36.71
+2026-03,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,180,386,636262.09,13266.75,622995.34,388156.93,234838.41,37.7
+2026-03,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,231,496,438554.48,8930.75,429623.73,275635.69,153988.04,35.84
+2026-03,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,206,521,240230.72,4986.16,235244.56,149902.81,85341.75,36.28
+2026-03,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,280,1088,188301.58,3854.73,184446.85,112713.59,71733.26,38.89
+2026-03,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,239,1054,69719.96,1510.09,68209.87,43236.89,24972.98,36.61
+2026-03,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,125,241,396331.35,8072.16,388259.19,242621.48,145637.71,37.51
+2026-03,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,140,296,265944.06,5525.1,260418.96,167072.45,93346.51,35.84
+2026-03,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,114,279,133397.91,2789.0,130608.91,82130.67,48478.24,37.12
+2026-03,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,152,602,99969.33,2140.97,97828.36,59429.12,38399.24,39.25
+2026-03,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,146,632,41380.54,888.98,40491.56,25615.21,14876.35,36.74
+2026-03,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,347,1483,120815.12,2504.39,118310.73,77597.58,40713.15,34.41
+2026-03,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,372,1100,341756.7,7473.76,334282.94,209913.23,124369.71,37.2
+2026-03,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,349,1047,188728.32,3816.86,184911.46,122693.73,62217.73,33.65
+2026-03,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,400,1102,384177.13,8084.14,376092.99,244380.67,131712.32,35.02
+2026-03,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,326,1380,77923.19,1598.42,76324.77,52044.64,24280.13,31.81
+2026-03,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,195,786,64555.83,1290.36,63265.47,41431.55,21833.92,34.51
+2026-03,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,226,667,211129.35,4294.34,206835.01,129912.27,76922.74,37.19
+2026-03,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,224,670,114340.51,2303.83,112036.68,73530.38,38506.3,34.37
+2026-03,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,234,644,226562.71,4692.28,221870.43,144040.22,77830.21,35.08
+2026-03,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,220,920,52276.62,1162.94,51113.68,34710.11,16403.57,32.09
+2026-03,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,138,507,40994.44,728.74,40265.7,26263.78,14001.92,34.77
+2026-03,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,140,433,130803.52,2562.05,128241.47,80500.71,47740.76,37.23
+2026-03,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,131,408,73821.98,1513.46,72308.52,48323.31,23985.21,33.17
+2026-03,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,164,459,166082.26,3296.62,162785.64,105440.63,57345.01,35.23
+2026-03,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,117,470,26253.72,539.19,25714.53,17443.96,8270.57,32.16
+2026-03,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,233,925,118743.65,2509.09,116234.56,72164.07,44070.49,37.92
+2026-03,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,358,739,1213211.65,24622.67,1188588.98,710284.47,478304.51,40.24
+2026-03,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,362,1456,177022.66,3460.28,173562.38,99988.44,73573.94,42.39
+2026-03,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,385,1605,57701.45,1183.88,56517.57,34424.25,22093.32,39.09
+2026-03,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,361,738,312920.71,6038.24,306882.47,177916.28,128966.19,42.02
+2026-03,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,165,635,79227.59,1523.52,77704.07,47789.6,29914.47,38.5
+2026-03,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,212,465,812812.88,16776.38,796036.5,476282.17,319754.33,40.17
+2026-03,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,235,881,109909.36,2049.58,107859.78,62482.7,45377.08,42.07
+2026-03,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,247,1043,38132.48,775.21,37357.27,22608.42,14748.85,39.48
+2026-03,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,239,515,208080.7,4357.28,203723.42,119591.92,84131.5,41.3
+2026-03,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,79,335,38292.58,805.5,37487.08,23150.77,14336.31,38.24
+2026-03,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,140,293,522932.55,11666.79,511265.76,305297.33,205968.43,40.29
+2026-03,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,125,467,55519.35,1277.41,54241.94,31533.28,22708.66,41.87
+2026-03,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,135,520,18502.18,390.65,18111.53,11057.87,7053.66,38.95
+2026-03,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,150,341,141627.43,3085.38,138542.05,80997.48,57544.57,41.54
+2026-03,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,352,1558,148599.4,3083.86,145515.54,97061.39,48454.15,33.3
+2026-03,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,371,1563,87900.95,1890.01,86010.94,54292.52,31718.42,36.88
+2026-03,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,392,855,582875.37,11520.84,571354.53,363344.23,208010.3,36.41
+2026-03,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,375,1577,309317.8,6328.0,302989.8,190741.94,112247.86,37.05
+2026-03,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,333,768,249663.36,4727.77,244935.59,163200.09,81735.5,33.37
+2026-03,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,225,865,84051.45,1761.24,82290.21,54738.03,27552.18,33.48
+2026-03,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,223,915,51822.05,1125.96,50696.09,32106.06,18590.03,36.67
+2026-03,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,242,507,354289.95,7180.1,347109.85,220231.01,126878.84,36.55
+2026-03,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,240,970,186647.19,3811.53,182835.66,114892.92,67942.74,37.16
+2026-03,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,179,411,140994.27,3353.47,137640.8,91340.82,46299.98,33.64
+2026-03,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,131,551,53917.22,1131.94,52785.28,35771.15,17014.13,32.23
+2026-03,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,129,587,32973.89,694.41,32279.48,20739.42,11540.06,35.75
+2026-03,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,148,299,200722.61,3823.48,196899.13,125859.21,71039.92,36.08
+2026-03,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,151,651,122386.03,2795.46,119590.57,76231.1,43359.47,36.26
+2026-03,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,111,275,92894.25,2039.29,90854.96,60992.03,29862.93,32.87
+2026-03,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,224,686,132829.73,2896.7,129933.03,73774.19,56158.84,43.22
+2026-03,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,324,964,316458.42,6746.68,309711.74,181016.67,128695.07,41.55
+2026-03,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,306,637,1143737.33,23226.15,1120511.18,652326.37,468184.81,41.78
+2026-03,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,372,932,823710.27,17471.77,806238.5,492789.48,313449.02,38.88
+2026-03,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,327,1259,203508.75,3991.9,199516.85,116098.99,83417.86,41.81
+2026-03,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,174,497,101414.9,1882.14,99532.76,56290.11,43242.65,43.45
+2026-03,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,222,608,202358.19,4012.26,198345.93,115726.26,82619.67,41.65
+2026-03,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,184,376,632245.12,13816.97,618428.15,351373.67,267054.48,43.18
+2026-03,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,255,694,615907.94,13866.6,602041.34,368354.12,233687.22,38.82
+2026-03,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,198,734,122489.49,2560.29,119929.2,70031.17,49898.03,41.61
+2026-03,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,82,271,47105.16,978.94,46126.22,26277.72,19848.5,43.03
+2026-03,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,110,275,93299.09,1787.81,91511.28,53609.33,37901.95,41.42
+2026-03,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,98,215,366987.87,7492.11,359495.76,205071.88,154423.88,42.96
+2026-03,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,148,419,364397.32,7549.66,356847.66,217787.48,139060.18,38.97
+2026-03,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,111,426,66291.18,1294.47,64996.71,37852.44,27144.27,41.76
+2026-04,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,285,595,983860.71,21020.31,962840.4,601110.83,361729.57,37.57
+2026-04,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,379,808,701459.18,14837.49,686621.69,440114.28,246507.41,35.9
+2026-04,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,353,936,464718.62,9440.59,455278.03,286674.12,168603.91,37.03
+2026-04,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,357,1385,241261.09,5087.36,236173.73,144063.8,92109.93,39.0
+2026-04,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,384,1616,107656.07,2261.47,105394.6,66864.02,38530.58,36.56
+2026-04,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,181,363,585293.01,11633.93,573659.08,358953.47,214705.61,37.43
+2026-04,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,229,504,451823.23,9308.78,442514.45,283187.43,159327.02,36.0
+2026-04,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,198,490,226052.46,4749.9,221302.56,140313.74,80988.82,36.6
+2026-04,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,204,761,126847.66,2509.33,124338.33,75419.07,48919.26,39.34
+2026-04,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,205,815,53499.15,1040.07,52459.08,33001.15,19457.93,37.09
+2026-04,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,112,230,365827.54,7779.31,358048.23,225167.19,132881.04,37.11
+2026-04,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,129,281,245643.22,5394.12,240249.1,153919.74,86329.36,35.93
+2026-04,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,137,339,165495.45,3121.5,162373.95,101530.17,60843.78,37.47
+2026-04,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,137,520,84152.91,1742.35,82410.56,51136.24,31274.32,37.95
+2026-04,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,159,674,45872.4,992.84,44879.56,28316.52,16563.04,36.91
+2026-04,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,312,1243,100041.69,3202.18,96839.51,64143.35,32696.16,33.76
+2026-04,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,329,918,294230.46,9925.06,284305.4,181016.31,103289.09,36.33
+2026-04,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,348,1022,190923.76,6219.88,184703.88,124462.02,60241.86,32.62
+2026-04,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,361,982,339705.09,10865.33,328839.76,216663.19,112176.57,34.11
+2026-04,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,324,1289,74140.28,2388.8,71751.48,49036.93,22714.55,31.66
+2026-04,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,229,921,75431.77,2245.38,73186.39,48866.79,24319.6,33.23
+2026-04,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,231,679,209741.59,6624.9,203116.69,128051.31,75065.38,36.96
+2026-04,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,239,731,129609.23,4238.55,125370.68,85067.7,40302.98,32.15
+2026-04,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,250,752,267627.0,8322.49,259304.51,169841.08,89463.43,34.5
+2026-04,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,219,929,51233.32,1756.49,49476.83,34133.88,15342.95,31.01
+2026-04,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,123,490,39681.54,1294.18,38387.36,25341.98,13045.38,33.98
+2026-04,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,111,299,100209.75,3495.03,96714.72,61708.14,35006.58,36.2
+2026-04,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,116,329,53340.31,1701.54,51638.77,34773.2,16865.57,32.66
+2026-04,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,131,388,139371.92,4076.55,135295.37,88774.08,46521.29,34.38
+2026-04,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,106,440,25014.35,796.2,24218.15,16466.26,7751.89,32.01
+2026-04,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,235,960,113755.76,2231.21,111524.55,68568.05,42956.5,38.52
+2026-04,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,323,713,1140591.07,22876.02,1117715.05,671133.86,446581.19,39.95
+2026-04,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,386,1531,182821.36,4011.92,178809.44,103648.89,75160.55,42.03
+2026-04,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,365,1535,53804.12,1181.14,52622.98,32129.82,20493.16,38.94
+2026-04,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,347,731,306972.03,6215.92,300756.11,174496.58,126259.53,41.98
+2026-04,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,167,652,78749.83,1846.85,76902.98,47153.62,29749.36,38.68
+2026-04,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,215,442,725768.49,15386.03,710382.46,425678.09,284704.37,40.08
+2026-04,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,234,952,119668.55,2296.5,117372.05,67530.43,49841.62,42.46
+2026-04,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,232,905,31983.58,654.86,31328.72,18845.02,12483.7,39.85
+2026-04,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,239,534,220756.35,4447.64,216308.71,126321.09,89987.62,41.6
+2026-04,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,79,314,36593.79,776.29,35817.5,22075.67,13741.83,38.37
+2026-04,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,123,238,377724.78,7398.46,370326.32,221298.64,149027.68,40.24
+2026-04,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,121,441,52917.34,1140.03,51777.31,29922.4,21854.91,42.21
+2026-04,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,139,538,19312.72,378.33,18934.39,11555.9,7378.49,38.97
+2026-04,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,122,255,108647.73,2314.15,106333.58,61694.49,44639.09,41.98
+2026-04,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,347,1623,155859.89,3172.46,152687.43,101135.58,51551.85,33.76
+2026-04,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,330,1332,75749.22,1580.41,74168.81,46989.51,27179.3,36.65
+2026-04,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,393,851,588159.62,12463.23,575696.39,365468.46,210227.93,36.52
+2026-04,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,357,1414,265220.64,5422.93,259797.71,163921.87,95875.84,36.9
+2026-04,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,289,630,218488.61,4401.24,214087.37,142983.77,71103.6,33.21
+2026-04,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,218,890,84617.35,1744.02,82873.33,55230.36,27642.97,33.36
+2026-04,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,188,737,42414.42,860.73,41553.69,26257.4,15296.29,36.81
+2026-04,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,226,476,318314.95,6870.19,311444.76,199086.22,112358.54,36.08
+2026-04,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,235,974,191770.25,4159.84,187610.41,117355.8,70254.61,37.45
+2026-04,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,168,410,142304.07,3130.0,139174.07,92214.51,46959.56,33.74
+2026-04,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,125,539,53940.76,1113.09,52827.67,35798.9,17028.77,32.23
+2026-04,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,131,559,31438.65,701.27,30737.38,19756.02,10981.36,35.73
+2026-04,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,127,253,164812.38,3274.13,161538.25,104883.39,56654.86,35.07
+2026-04,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,122,508,97022.74,2010.03,95012.71,60480.82,34531.89,36.34
+2026-04,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,120,277,95935.84,1858.91,94076.93,64146.71,29930.22,31.81
+2026-04,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,208,614,119532.88,2627.94,116904.94,67014.58,49890.36,42.68
+2026-04,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,280,877,282555.8,6045.25,276510.55,159434.35,117076.2,42.34
+2026-04,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,264,544,982737.7,20424.94,962312.76,555758.09,406554.67,42.25
+2026-04,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,357,960,871097.2,18476.42,852620.78,521526.27,331094.51,38.83
+2026-04,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,294,1056,177420.36,3810.18,173610.18,100743.15,72867.03,41.97
+2026-04,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,118,353,74605.17,1712.08,72893.09,41646.51,31246.58,42.87
+2026-04,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,190,524,167948.24,3472.4,164475.84,95327.57,69148.27,42.04
+2026-04,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,144,280,467900.94,9969.88,457931.06,263133.58,194797.48,42.54
+2026-04,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,199,509,475123.62,9527.45,465596.17,285084.34,180511.83,38.77
+2026-04,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,159,579,97929.99,2091.03,95838.96,55994.02,39844.94,41.57
+2026-04,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,70,237,46258.16,1047.62,45210.54,25562.57,19647.97,43.46
+2026-04,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,91,254,88794.52,1760.75,87033.77,51049.39,35984.38,41.35
+2026-04,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,88,183,355020.27,7598.88,347421.39,200046.12,147375.27,42.42
+2026-04,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,120,290,246632.02,5222.34,241409.68,146905.89,94503.79,39.15
+2026-04,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,93,343,57622.17,1114.95,56507.22,33319.73,23187.49,41.03
+2026-05,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,320,680,1110866.84,22026.66,1088840.18,682016.3,406823.88,37.36
+2026-05,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,366,800,721191.23,14610.63,706580.6,452617.46,253963.14,35.94
+2026-05,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,354,937,404280.12,8368.69,395911.43,252423.13,143488.3,36.24
+2026-05,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,360,1287,218441.98,4648.44,213793.54,130060.34,83733.2,39.17
+2026-05,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,362,1530,104107.45,2226.64,101880.81,64359.34,37521.47,36.83
+2026-05,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,194,399,655515.47,14006.41,641509.06,402021.02,239488.04,37.33
+2026-05,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,249,552,493515.12,9541.15,483973.97,310040.03,173933.94,35.94
+2026-05,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,232,607,282102.58,5968.94,276133.64,175688.76,100444.88,36.38
+2026-05,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,257,953,163788.06,3512.64,160275.42,98219.15,62056.27,38.72
+2026-05,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,256,1048,69242.61,1445.16,67797.45,43050.54,24746.91,36.5
+2026-05,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,96,191,308489.62,6415.24,302074.38,189948.08,112126.3,37.12
+2026-05,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,116,267,242829.33,4743.24,238086.09,152418.82,85667.27,35.98
+2026-05,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,114,292,134727.09,2928.97,131798.12,83608.07,48190.05,36.56
+2026-05,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,108,427,70178.34,1496.64,68681.7,41364.86,27316.84,39.77
+2026-05,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,112,459,30767.84,623.97,30143.87,19110.78,11033.09,36.6
+2026-05,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,331,1336,111525.62,4862.42,106663.2,71979.58,34683.62,32.52
+2026-05,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,317,897,293227.79,13319.24,279908.55,179454.47,100454.08,35.89
+2026-05,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,373,1116,204211.32,9078.45,195132.87,132811.54,62321.33,31.94
+2026-05,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,411,1166,419518.18,18212.13,401306.05,266338.47,134967.58,33.63
+2026-05,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,323,1342,76332.95,3247.23,73085.72,50567.4,22518.32,30.81
+2026-05,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,216,829,66260.58,2889.29,63371.29,42555.64,20815.65,32.85
+2026-05,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,246,736,239406.43,10574.99,228831.44,147240.73,81590.71,35.66
+2026-05,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,247,777,149526.96,6609.45,142917.51,96789.74,46127.77,32.28
+2026-05,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,264,731,267285.85,11684.57,255601.28,169083.66,86517.62,33.85
+2026-05,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,220,865,47744.18,2193.68,45550.5,31652.31,13898.19,30.51
+2026-05,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,167,705,55711.64,2417.37,53294.27,35820.11,17474.16,32.79
+2026-05,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,128,390,123775.79,5452.06,118323.73,75506.38,42817.35,36.19
+2026-05,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,130,357,59471.93,2611.13,56860.8,39129.51,17731.29,31.18
+2026-05,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,148,425,145528.67,6398.53,139130.14,92920.58,46209.56,33.21
+2026-05,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,128,511,28881.1,1201.65,27679.45,18953.6,8725.85,31.52
+2026-05,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,244,922,109428.99,2220.45,107208.54,65963.92,41244.62,38.47
+2026-05,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,323,627,1021172.73,19803.96,1001368.77,598209.76,403159.01,40.26
+2026-05,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,378,1474,181665.59,3664.67,178000.92,103157.08,74843.84,42.05
+2026-05,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,368,1616,56225.89,1111.28,55114.61,33643.98,21470.63,38.96
+2026-05,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,354,719,298747.91,6102.73,292645.18,169910.76,122734.42,41.94
+2026-05,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,156,603,77597.54,1539.75,76057.79,47130.08,28927.71,38.03
+2026-05,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,233,489,852353.51,18398.53,833954.98,495688.26,338266.72,40.56
+2026-05,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,263,1068,129541.84,2761.35,126780.49,73912.74,52867.75,41.7
+2026-05,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,237,1049,38015.82,832.58,37183.24,22714.13,14469.11,38.91
+2026-05,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,235,519,213785.54,4593.48,209192.06,121982.03,87210.03,41.69
+2026-05,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,100,389,45948.75,1142.74,44806.01,27480.33,17325.68,38.67
+2026-05,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,135,299,479173.08,9814.94,469358.14,280102.5,189255.64,40.32
+2026-05,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,140,588,72492.1,1538.31,70953.79,40929.33,30024.46,42.32
+2026-05,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,157,648,23507.25,467.27,23039.98,13958.56,9081.42,39.42
+2026-05,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,143,318,134635.81,2824.88,131810.93,76869.35,54941.58,41.68
+2026-05,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,355,1506,146160.47,3006.21,143154.26,95467.79,47686.47,33.31
+2026-05,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,357,1500,84994.28,1745.52,83248.76,52772.08,30476.68,36.61
+2026-05,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,371,808,545927.17,11015.24,534911.93,339713.75,195198.18,36.49
+2026-05,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,335,1361,263518.57,5293.04,258225.53,161534.84,96690.69,37.44
+2026-05,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,319,707,252354.17,5287.12,247067.05,164788.79,82278.26,33.3
+2026-05,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,235,950,90958.45,1941.39,89017.06,59135.63,29881.43,33.57
+2026-05,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,222,911,51334.42,1064.89,50269.53,31892.93,18376.6,36.56
+2026-05,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,234,480,322368.12,6982.75,315385.37,202108.06,113277.31,35.92
+2026-05,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,217,910,177505.17,3661.62,173843.55,108846.55,64997.0,37.39
+2026-05,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,168,362,121262.88,2600.86,118662.02,79383.18,39278.84,33.1
+2026-05,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,119,494,47004.82,1051.79,45953.03,31355.36,14597.67,31.77
+2026-05,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,120,543,31048.36,668.19,30380.17,19667.11,10713.06,35.26
+2026-05,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,134,289,198031.2,3938.81,194092.39,126025.6,68066.79,35.07
+2026-05,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,145,592,112568.81,2229.51,110339.3,70496.94,39842.36,36.11
+2026-05,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,111,255,81724.72,1727.84,79996.88,54825.54,25171.34,31.47
+2026-05,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,175,515,102680.17,1990.3,100689.87,56929.69,43760.18,43.46
+2026-05,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,254,730,240007.6,4906.06,235101.54,137935.27,97166.27,41.33
+2026-05,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,228,472,828317.91,17246.27,811071.64,460949.46,350122.18,43.17
+2026-05,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,278,720,618154.46,12165.46,605989.0,368632.73,237356.27,39.17
+2026-05,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,220,843,135183.47,2741.63,132441.84,76744.83,55697.01,42.05
+2026-05,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,132,408,85028.73,1708.48,83320.25,47443.91,35876.34,43.06
+2026-05,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,154,444,146012.46,2990.58,143021.88,83366.5,59655.38,41.71
+2026-05,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,147,320,544307.22,11340.82,532966.4,307659.97,225306.43,42.27
+2026-05,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,193,494,442536.69,9695.91,432840.78,264723.73,168117.05,38.84
+2026-05,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,173,617,101719.21,2206.55,99512.66,58164.85,41347.81,41.55
+2026-05,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,81,228,54377.3,1335.55,53041.75,30195.86,22845.89,43.07
+2026-05,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,100,289,98099.43,2054.34,96045.09,55758.11,40286.98,41.95
+2026-05,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,75,151,268092.41,5569.07,262523.34,150900.77,111622.57,42.52
+2026-05,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,121,310,271218.08,4976.4,266241.68,161650.88,104590.8,39.28
+2026-05,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,86,339,57558.34,1167.66,56390.68,33014.17,23376.51,41.45
+2026-06,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,318,667,1096410.41,23138.23,1073272.18,671058.17,402214.01,37.48
+2026-06,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,329,668,592249.9,13205.55,579044.35,371826.44,207217.91,35.79
+2026-06,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,318,777,372255.18,7582.67,364672.51,230569.77,134102.74,36.77
+2026-06,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,346,1277,215840.24,4249.66,211590.58,128648.64,82941.94,39.2
+2026-06,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,372,1637,109169.4,2279.65,106889.75,67903.12,38986.63,36.47
+2026-06,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,178,385,645707.56,13699.69,632007.87,394960.91,237046.96,37.51
+2026-06,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,207,444,381032.57,7445.45,373587.12,238774.12,134813.0,36.09
+2026-06,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,194,483,231204.77,4725.07,226479.7,144095.88,82383.82,36.38
+2026-06,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,200,723,123377.28,2636.96,120740.32,73457.4,47282.92,39.16
+2026-06,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,207,870,58264.71,1157.27,57107.44,36203.52,20903.92,36.6
+2026-06,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,100,220,368472.98,7840.24,360632.74,224425.99,136206.75,37.77
+2026-06,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,125,280,254683.5,4917.74,249765.76,160292.77,89472.99,35.82
+2026-06,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,106,284,127102.84,3076.06,124026.78,79120.33,44906.45,36.21
+2026-06,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,128,485,84217.97,1591.79,82626.18,50460.87,32165.31,38.93
+2026-06,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,127,558,37522.01,700.87,36821.14,23148.59,13672.55,37.13
+2026-06,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,329,1363,116137.54,6427.44,109710.1,74911.23,34798.87,31.72
+2026-06,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,314,862,267017.36,15032.83,251984.53,163988.15,87996.38,34.92
+2026-06,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,350,1074,193270.02,10793.39,182476.63,125966.36,56510.27,30.97
+2026-06,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,365,1020,369528.24,20431.89,349096.35,235013.98,114082.37,32.68
+2026-06,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,324,1294,73068.48,4051.93,69016.55,48207.24,20809.31,30.15
+2026-06,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,186,769,66074.79,3799.75,62275.04,42775.43,19499.61,31.31
+2026-06,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,190,517,173393.56,9952.11,163441.45,106193.35,57248.1,35.03
+2026-06,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,230,701,134468.17,7629.27,126838.9,87548.16,39290.74,30.98
+2026-06,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,222,663,231947.16,13190.64,218756.52,147147.8,71608.72,32.73
+2026-06,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,201,817,46216.79,2590.38,43626.41,30763.84,12862.57,29.48
+2026-06,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,122,526,42319.65,2441.48,39878.17,27228.68,12649.49,31.72
+2026-06,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,108,331,99928.21,5598.65,94329.56,61166.56,33163.0,35.16
+2026-06,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,110,304,53914.65,3057.53,50857.12,35780.85,15076.27,29.64
+2026-06,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,125,328,124858.63,7146.81,117711.82,78626.21,39085.61,33.2
+2026-06,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,117,483,27271.77,1499.7,25772.07,18070.5,7701.57,29.88
+2026-06,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,242,951,116675.22,2554.28,114120.94,70139.06,43981.88,38.54
+2026-06,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,338,716,1221394.18,25130.87,1196263.31,712992.31,483271.0,40.4
+2026-06,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,361,1377,173994.76,3488.61,170506.15,98555.7,71950.45,42.2
+2026-06,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,384,1626,57545.12,1175.96,56369.16,34494.7,21874.46,38.81
+2026-06,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,359,767,317259.48,7003.23,310256.25,181121.19,129135.06,41.62
+2026-06,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,157,610,78884.99,1572.49,77312.5,47074.39,30238.11,39.11
+2026-06,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,227,491,848977.6,18909.1,830068.5,495632.55,334435.95,40.29
+2026-06,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,231,866,110282.49,2161.04,108121.45,62620.85,45500.6,42.08
+2026-06,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,216,917,33440.89,642.97,32797.92,20101.79,12696.13,38.71
+2026-06,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,240,503,207895.37,4343.2,203552.17,118838.65,84713.52,41.62
+2026-06,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,85,325,39917.21,757.49,39159.72,24036.81,15122.91,38.62
+2026-06,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,136,283,476884.4,11358.48,465525.92,280475.01,185050.91,39.75
+2026-06,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,152,599,74036.91,1409.45,72627.46,42387.43,30240.03,41.64
+2026-06,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,137,614,19934.05,377.97,19556.08,12013.56,7542.52,38.57
+2026-06,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,146,298,126286.85,2417.8,123869.05,72091.86,51777.19,41.8
+2026-06,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,327,1326,129001.09,2601.64,126399.45,84075.89,42323.56,33.48
+2026-06,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,334,1406,80066.1,1685.03,78381.07,49789.88,28591.19,36.48
+2026-06,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,330,719,491462.52,10083.51,481379.01,306348.11,175030.9,36.36
+2026-06,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,348,1446,282360.18,6039.86,276320.32,173587.73,102732.59,37.18
+2026-06,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,280,607,205405.11,4252.59,201152.52,133821.08,67331.44,33.47
+2026-06,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,227,974,95633.48,2021.25,93612.23,62469.9,31142.33,33.27
+2026-06,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,219,853,47808.2,964.72,46843.48,29879.19,16964.29,36.21
+2026-06,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,215,466,326279.54,6477.6,319801.94,203573.47,116228.47,36.34
+2026-06,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,210,823,159820.08,3293.15,156526.93,98150.73,58376.2,37.29
+2026-06,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,196,459,149215.84,3001.95,146213.89,97428.92,48784.97,33.37
+2026-06,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,125,565,53785.6,1155.56,52630.04,35794.92,16835.12,31.99
+2026-06,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,120,469,26356.01,552.62,25803.39,16624.77,9178.62,35.57
+2026-06,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,127,269,181902.87,3910.73,177992.14,116730.65,61261.49,34.42
+2026-06,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,131,553,105644.74,2284.24,103360.5,66230.78,37129.72,35.92
+2026-06,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,114,264,83585.55,1795.96,81789.59,55978.19,25811.4,31.56
+2026-06,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,187,646,126108.31,2706.93,123401.38,69684.62,53716.76,43.53
+2026-06,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,228,643,210237.07,4444.55,205792.52,120190.93,85601.59,41.6
+2026-06,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,201,439,776884.71,15922.88,760961.83,442002.8,318959.03,41.92
+2026-06,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,265,670,616340.23,12939.88,603400.35,370677.23,232723.12,38.57
+2026-06,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,210,787,130058.37,2652.67,127405.7,74176.77,53228.93,41.78
+2026-06,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,112,334,68783.97,1299.92,67484.05,38297.78,29186.27,43.25
+2026-06,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,140,369,122077.05,2467.57,119609.48,69524.93,50084.55,41.87
+2026-06,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,130,269,473897.26,9030.38,464866.88,268516.74,196350.14,42.24
+2026-06,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,170,430,385813.15,8016.95,377796.2,231275.76,146520.44,38.78
+2026-06,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,146,595,88913.97,1728.38,87185.59,50999.5,36186.09,41.5
+2026-06,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,71,232,44363.76,1029.45,43334.31,24551.66,18782.65,43.34
+2026-06,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,97,277,90675.55,1866.19,88809.36,51434.01,37375.35,42.08
+2026-06,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,80,163,252910.86,4508.45,248402.41,143273.26,105129.15,42.32
+2026-06,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,115,301,270441.46,4945.18,265496.28,162052.81,103443.47,38.96
+2026-06,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,85,310,58042.77,1095.99,56946.78,33433.93,23512.85,41.29
+2026-07,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,294,633,1046235.62,21093.28,1025142.34,640708.29,384434.05,37.5
+2026-07,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,349,719,653509.34,13153.0,640356.34,411622.66,228733.68,35.72
+2026-07,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,352,911,454190.97,9685.43,444505.54,280713.13,163792.41,36.85
+2026-07,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,379,1470,253298.79,5369.18,247929.61,150248.58,97681.03,39.4
+2026-07,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,373,1606,107419.04,2193.64,105225.4,66359.42,38865.98,36.94
+2026-07,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,182,357,591090.54,12073.89,579016.65,361193.72,217822.93,37.62
+2026-07,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,218,457,404508.66,8035.26,396473.4,253565.5,142907.9,36.04
+2026-07,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,198,512,251074.54,4971.66,246102.88,155953.86,90149.02,36.63
+2026-07,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,234,829,145248.56,2675.31,142573.25,86837.27,55735.98,39.09
+2026-07,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,205,910,58828.47,1316.38,57512.09,36331.69,21180.4,36.83
+2026-07,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,129,252,409923.92,8736.56,401187.36,251718.08,149469.28,37.26
+2026-07,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,149,335,323342.1,7196.09,316146.01,203624.22,112521.79,35.59
+2026-07,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,139,370,168003.36,3402.36,164601.0,104325.08,60275.92,36.62
+2026-07,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,148,503,86242.75,1867.68,84375.07,50982.53,33392.54,39.58
+2026-07,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,144,592,41178.5,875.51,40302.99,25570.27,14732.72,36.55
+2026-07,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,333,1339,112398.28,7720.91,104677.37,72321.91,32355.46,30.91
+2026-07,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,326,968,297942.55,20578.01,277364.54,183624.97,93739.57,33.8
+2026-07,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,306,886,157886.47,10834.87,147051.6,102915.7,44135.9,30.01
+2026-07,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,386,1028,375844.91,25558.28,350286.63,237257.65,113028.98,32.27
+2026-07,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,324,1318,74253.19,4995.84,69257.35,49298.61,19958.74,28.82
+2026-07,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,213,930,78135.69,5252.78,72882.91,50189.11,22693.8,31.14
+2026-07,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,237,701,208001.42,14370.38,193631.04,127114.22,66516.82,34.35
+2026-07,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,243,757,130163.89,8883.95,121279.94,84977.84,36302.1,29.93
+2026-07,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,285,777,262024.44,17665.15,244359.29,167935.54,76423.75,31.28
+2026-07,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,228,959,54982.21,3633.02,51349.19,36403.15,14946.04,29.11
+2026-07,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,134,543,42995.28,3075.77,39919.51,27521.68,12397.83,31.06
+2026-07,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,142,403,128049.14,8858.62,119190.52,78782.6,40407.92,33.9
+2026-07,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,140,430,81141.02,5586.02,75555.0,52896.29,22658.71,29.99
+2026-07,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,156,423,151108.39,10098.54,141009.85,95917.12,45092.73,31.98
+2026-07,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,136,565,31396.4,2103.67,29292.73,20715.39,8577.34,29.28
+2026-07,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,255,1006,124113.05,2505.8,121607.25,73895.01,47712.24,39.23
+2026-07,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,365,829,1377408.45,27526.88,1349881.57,806555.66,543325.91,40.25
+2026-07,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,381,1554,190826.97,3960.51,186866.46,108095.14,78771.32,42.15
+2026-07,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,405,1666,60907.47,1221.42,59686.05,36473.56,23212.49,38.89
+2026-07,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,388,857,367277.97,7572.81,359705.16,208819.74,150885.42,41.95
+2026-07,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,171,640,79043.16,1608.82,77434.34,47314.18,30120.16,38.9
+2026-07,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,213,425,733560.94,14834.13,718726.81,428829.2,289897.61,40.33
+2026-07,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,240,993,122338.54,2590.36,119748.18,69353.38,50394.8,42.08
+2026-07,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,236,1010,36201.01,747.23,35453.78,21614.47,13839.31,39.03
+2026-07,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,245,548,236577.88,4970.98,231606.9,135143.83,96463.07,41.65
+2026-07,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,77,309,37483.27,756.51,36726.76,22511.92,14214.84,38.7
+2026-07,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,103,234,404228.42,7874.54,396353.88,238018.5,158335.38,39.95
+2026-07,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,115,441,55724.94,1215.25,54509.69,31639.28,22870.41,41.96
+2026-07,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,129,523,20168.86,430.87,19737.99,12183.74,7554.25,38.27
+2026-07,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,129,302,123901.34,2726.54,121174.8,70762.18,50412.62,41.6
+2026-07,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,346,1474,141613.14,2868.08,138745.06,92126.93,46618.13,33.6
+2026-07,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,352,1486,84988.08,1607.42,83380.66,52796.68,30583.98,36.68
+2026-07,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,351,720,502706.44,9994.6,492711.84,313127.06,179584.78,36.45
+2026-07,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,353,1410,275411.13,5773.84,269637.29,169146.73,100490.56,37.27
+2026-07,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,321,718,241271.56,4854.07,236417.49,157847.42,78570.07,33.23
+2026-07,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,251,1119,110107.59,2123.73,107983.86,71776.39,36207.47,33.53
+2026-07,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,209,870,49373.29,1132.1,48241.19,30673.7,17567.49,36.42
+2026-07,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,215,474,334956.05,6959.65,327996.4,208651.75,119344.65,36.39
+2026-07,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,258,1019,202566.54,4363.35,198203.19,123749.82,74453.37,37.56
+2026-07,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,187,441,146966.81,2751.29,144215.52,97282.77,46932.75,32.54
+2026-07,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,137,576,53484.44,1037.13,52447.31,35600.89,16846.42,32.12
+2026-07,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,122,501,27942.62,593.23,27349.39,17804.18,9545.21,34.9
+2026-07,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,130,273,187799.74,3686.12,184113.62,119451.08,64662.54,35.12
+2026-07,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,135,563,106304.23,2416.49,103887.74,67103.1,36784.64,35.41
+2026-07,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,112,249,90736.55,1855.02,88881.53,61101.85,27779.68,31.25
+2026-07,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,180,593,121642.91,2588.89,119054.02,68274.53,50779.49,42.65
+2026-07,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,242,707,235168.33,5010.86,230157.47,134677.89,95479.58,41.48
+2026-07,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,236,473,859271.87,17486.58,841785.29,483594.5,358190.79,42.55
+2026-07,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,298,713,670891.82,14235.74,656656.08,402667.08,253989.0,38.68
+2026-07,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,241,866,136240.94,2677.78,133563.16,77896.24,55666.92,41.68
+2026-07,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,134,376,81003.16,1799.22,79203.94,45043.52,34160.42,43.13
+2026-07,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,165,488,158218.36,2932.19,155286.17,89218.29,66067.88,42.55
+2026-07,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,136,318,509749.77,10091.87,499657.9,287435.91,212221.99,42.47
+2026-07,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,197,478,423261.27,8419.94,414841.33,253553.85,161287.48,38.88
+2026-07,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,153,574,88869.09,1926.84,86942.25,50508.18,36434.07,41.91
+2026-07,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,71,197,42554.65,862.79,41691.86,23656.64,18035.22,43.26
+2026-07,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,109,303,100893.31,2102.63,98790.68,57881.87,40908.81,41.41
+2026-07,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,84,173,316738.6,7457.01,309281.59,174665.91,134615.68,43.53
+2026-07,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,118,294,255089.56,5962.52,249127.04,153356.64,95770.4,38.44
+2026-07,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,89,314,52652.81,1060.59,51592.22,29681.95,21910.27,42.47
+2026-08,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,288,576,942832.39,19110.14,923722.25,580426.23,343296.02,37.16
+2026-08,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,340,750,680999.05,13954.14,667044.91,428158.65,238886.26,35.81
+2026-08,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,312,781,372049.63,7499.13,364550.5,231204.66,133345.84,36.58
+2026-08,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,396,1551,274548.18,5485.14,269063.04,163446.66,105616.38,39.25
+2026-08,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,382,1554,105467.02,2310.11,103156.91,65402.8,37754.11,36.6
+2026-08,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,184,400,669297.57,13410.11,655887.46,408730.41,247157.05,37.68
+2026-08,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,227,480,422143.7,8445.09,413698.61,264582.01,149116.6,36.04
+2026-08,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,232,624,282386.44,6196.48,276189.96,177167.92,99022.04,35.85
+2026-08,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,272,1076,178091.44,3889.62,174201.82,105580.41,68621.41,39.39
+2026-08,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,254,1087,73084.07,1627.47,71456.6,44999.88,26456.72,37.02
+2026-08,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,104,235,390744.37,8454.37,382290.0,240334.29,141955.71,37.13
+2026-08,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,139,287,262969.64,5350.22,257619.42,165064.89,92554.53,35.93
+2026-08,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,113,293,125941.81,2437.61,123504.2,78586.21,44917.99,36.37
+2026-08,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,119,445,74898.0,1634.73,73263.27,44838.82,28424.45,38.8
+2026-08,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,127,528,35465.27,762.08,34703.19,22029.31,12673.88,36.52
+2026-08,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,345,1358,113754.71,9118.33,104636.38,73454.48,31181.9,29.8
+2026-08,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,363,1026,346523.82,27567.77,318956.05,212387.79,106568.26,33.41
+2026-08,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,344,1083,197028.67,15736.81,181291.86,127407.26,53884.6,29.72
+2026-08,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,417,1206,414598.33,33288.23,381310.1,265231.59,116078.51,30.44
+2026-08,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,339,1468,85129.66,6795.39,78334.27,56506.41,21827.86,27.87
+2026-08,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,221,909,78975.49,6205.18,72770.31,51072.45,21697.86,29.82
+2026-08,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,221,676,205189.97,16370.11,188819.86,125750.13,63069.73,33.4
+2026-08,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,220,628,114999.81,9170.81,105829.0,74337.83,31491.17,29.76
+2026-08,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,254,697,245077.45,19665.78,225411.67,156142.34,69269.33,30.73
+2026-08,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,209,872,49831.03,3930.05,45900.98,33118.21,12782.77,27.85
+2026-08,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,128,540,46778.77,3745.45,43033.32,30055.15,12978.17,30.16
+2026-08,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,132,386,124433.99,9945.6,114488.39,76094.35,38394.04,33.54
+2026-08,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,149,432,75074.46,6042.62,69031.84,49215.83,19816.01,28.71
+2026-08,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,152,447,158576.13,12478.4,146097.73,101100.47,44997.26,30.8
+2026-08,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,139,516,30755.14,2434.74,28320.4,20178.46,8141.94,28.75
+2026-08,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,258,1047,127237.81,2823.16,124414.65,76958.43,47456.22,38.14
+2026-08,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,380,812,1465977.93,30369.21,1435608.72,857183.17,578425.55,40.29
+2026-08,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,407,1595,199394.46,3902.76,195491.7,113058.14,82433.56,42.17
+2026-08,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,409,1728,63076.29,1316.44,61759.85,37738.92,24020.93,38.89
+2026-08,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,371,761,315839.18,6542.82,309296.36,180105.69,129190.67,41.77
+2026-08,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,185,716,92938.49,1827.16,91111.33,55530.77,35580.56,39.05
+2026-08,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,254,522,885461.24,19412.21,866049.03,521839.15,344209.88,39.74
+2026-08,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,271,1045,129213.28,2640.21,126573.07,73555.46,53017.61,41.89
+2026-08,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,265,1080,38447.01,875.18,37571.83,22931.11,14640.72,38.97
+2026-08,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,264,571,237063.77,4871.44,232192.33,136081.42,96110.91,41.39
+2026-08,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,96,345,41950.65,989.22,40961.43,25241.03,15720.4,38.38
+2026-08,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,140,281,482616.55,9642.59,472973.96,283045.18,189928.78,40.16
+2026-08,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,134,517,63568.21,1411.99,62156.22,36200.98,25955.24,41.76
+2026-08,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,129,573,19435.51,373.36,19062.15,11458.4,7603.75,39.89
+2026-08,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,145,306,129845.93,2494.59,127351.34,73884.06,53467.28,41.98
+2026-08,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,380,1584,155559.47,3298.11,152261.36,101246.85,51014.51,33.5
+2026-08,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,336,1418,82055.25,1550.26,80504.99,51115.36,29389.63,36.51
+2026-08,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,356,804,552281.67,11271.78,541009.89,344067.15,196942.74,36.4
+2026-08,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,336,1331,260143.63,5196.8,254946.83,160398.75,94548.08,37.09
+2026-08,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,307,637,228409.5,4829.87,223579.63,147311.31,76268.32,34.11
+2026-08,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,248,1106,110300.11,2230.98,108069.13,72219.1,35850.03,33.17
+2026-08,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,236,997,56676.41,1231.64,55444.77,35218.46,20226.31,36.48
+2026-08,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,263,545,377277.43,7755.15,369522.28,235756.08,133766.2,36.2
+2026-08,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,256,1046,205653.21,4521.46,201131.75,126393.76,74737.99,37.16
+2026-08,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,204,480,158432.24,3140.98,155291.26,104305.56,50985.7,32.83
+2026-08,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,145,577,54125.68,1105.54,53020.14,36184.33,16835.81,31.75
+2026-08,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,153,625,34969.98,790.91,34179.07,22217.27,11961.8,35.0
+2026-08,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,149,303,205921.94,4221.34,201700.6,131553.11,70147.49,34.78
+2026-08,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,148,599,117683.29,2525.32,115157.97,73976.08,41181.89,35.76
+2026-08,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,125,268,89528.18,1686.96,87841.22,60343.36,27497.86,31.3
+2026-08,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,237,700,145418.38,2739.44,142678.94,81545.57,61133.37,42.85
+2026-08,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,318,900,302091.85,6489.71,295602.14,172440.03,123162.11,41.66
+2026-08,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,246,493,841218.19,18080.75,823137.44,474308.55,348828.89,42.38
+2026-08,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,314,820,726768.05,15533.51,711234.54,435242.3,275992.24,38.8
+2026-08,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,279,1039,168494.12,3784.15,164709.97,96629.75,68080.22,41.33
+2026-08,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,132,426,81659.06,1666.86,79992.2,45177.26,34814.94,43.52
+2026-08,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,204,596,196852.42,3869.06,192983.36,112284.07,80699.29,41.82
+2026-08,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,162,314,519539.69,10752.33,508787.36,296760.92,212026.44,41.67
+2026-08,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,223,591,532090.1,11303.05,520787.05,318482.73,202304.32,38.85
+2026-08,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,174,660,109987.96,2030.31,107957.65,62723.19,45234.46,41.9
+2026-08,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,84,235,44333.15,831.74,43501.41,24959.64,18541.77,42.62
+2026-08,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,118,343,110754.51,2074.81,108679.7,63357.18,45322.52,41.7
+2026-08,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,101,215,390030.94,7465.41,382565.53,223258.63,159306.9,41.64
+2026-08,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,124,308,259392.0,5049.47,254342.53,154670.91,99671.62,39.19
+2026-08,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,104,386,69805.94,1519.96,68285.98,39498.06,28787.92,42.16
+2026-09,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Bombas,338,709,1163652.04,23844.44,1139807.6,715519.61,424287.99,37.22
+2026-09,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Caixas d'água,389,796,715324.22,15161.92,700162.3,449651.14,250511.16,35.78
+2026-09,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Louças sanitárias,355,861,411314.09,8563.57,402750.52,256030.82,146719.7,36.43
+2026-09,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Registros e válvulas,397,1433,255909.16,5170.57,250738.59,153640.81,97097.78,38.72
+2026-09,1,Aquaforte Hidráulica,1,Aquaforte Curitiba Centro,Tubos e conexões,390,1648,110835.22,2124.47,108710.75,68526.96,40183.79,36.96
+2026-09,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Bombas,209,438,712937.99,16381.38,696556.61,439404.85,257151.76,36.92
+2026-09,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Caixas d'água,238,511,470297.45,9788.21,460509.24,295016.08,165493.16,35.94
+2026-09,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Louças sanitárias,216,553,268546.24,5443.85,263102.39,167335.89,95766.5,36.4
+2026-09,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Registros e válvulas,231,870,148503.22,2942.08,145561.14,88277.98,57283.16,39.35
+2026-09,1,Aquaforte Hidráulica,2,Aquaforte Curitiba Boqueirão,Tubos e conexões,238,952,64832.68,1314.7,63517.98,40265.09,23252.89,36.61
+2026-09,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Bombas,137,268,438907.95,9941.96,428965.99,270107.0,158858.99,37.03
+2026-09,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Caixas d'água,151,312,294311.01,6055.1,288255.91,184458.88,103797.03,36.01
+2026-09,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Louças sanitárias,142,344,160091.84,3206.17,156885.67,99202.65,57683.02,36.77
+2026-09,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Registros e válvulas,150,560,98808.74,2340.38,96468.36,59357.39,37110.97,38.47
+2026-09,1,Aquaforte Hidráulica,3,Aquaforte Londrina,Tubos e conexões,154,628,43510.56,895.67,42614.89,26956.75,15658.14,36.74
+2026-09,2,Voltare Elétrica,4,Voltare Florianópolis,Disjuntores,337,1449,118942.75,11178.39,107764.36,76560.66,31203.7,28.96
+2026-09,2,Voltare Elétrica,4,Voltare Florianópolis,Fios e cabos,336,914,299707.71,27792.55,271915.16,183762.85,88152.31,32.42
+2026-09,2,Voltare Elétrica,4,Voltare Florianópolis,Iluminação,359,1096,198502.49,18450.48,180052.01,129289.57,50762.44,28.19
+2026-09,2,Voltare Elétrica,4,Voltare Florianópolis,Quadros elétricos,364,999,380004.74,34400.43,345604.31,239242.91,106361.4,30.78
+2026-09,2,Voltare Elétrica,4,Voltare Florianópolis,Tomadas e interruptores,370,1509,87282.12,8199.99,79082.13,57794.15,21287.98,26.92
+2026-09,2,Voltare Elétrica,5,Voltare Joinville,Disjuntores,212,915,73904.51,6668.04,67236.47,47655.0,19581.47,29.12
+2026-09,2,Voltare Elétrica,5,Voltare Joinville,Fios e cabos,230,734,239487.84,22477.84,217010.0,146506.5,70503.5,32.49
+2026-09,2,Voltare Elétrica,5,Voltare Joinville,Iluminação,228,653,119381.06,11145.74,108235.32,77815.27,30420.05,28.11
+2026-09,2,Voltare Elétrica,5,Voltare Joinville,Quadros elétricos,253,655,235860.65,21889.13,213971.52,149775.62,64195.9,30.0
+2026-09,2,Voltare Elétrica,5,Voltare Joinville,Tomadas e interruptores,207,852,47930.84,4354.52,43576.32,32043.15,11533.17,26.47
+2026-09,2,Voltare Elétrica,6,Voltare Blumenau,Disjuntores,132,560,45227.85,4052.61,41175.24,28938.53,12236.71,29.72
+2026-09,2,Voltare Elétrica,6,Voltare Blumenau,Fios e cabos,135,393,125331.58,11544.91,113786.67,76532.73,37253.94,32.74
+2026-09,2,Voltare Elétrica,6,Voltare Blumenau,Iluminação,133,414,74171.4,6823.3,67348.1,48607.45,18740.65,27.83
+2026-09,2,Voltare Elétrica,6,Voltare Blumenau,Quadros elétricos,162,421,153486.2,14209.65,139276.55,97135.86,42140.69,30.26
+2026-09,2,Voltare Elétrica,6,Voltare Blumenau,Tomadas e interruptores,127,512,30090.87,2790.76,27300.11,19966.19,7333.92,26.86
+2026-09,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,EPI,278,1083,129933.73,2600.21,127333.52,78355.77,48977.75,38.46
+2026-09,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas elétricas,355,775,1322704.78,27796.52,1294908.26,775759.77,519148.49,40.09
+2026-09,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Ferramentas manuais,402,1515,191377.04,4207.94,187169.1,108632.66,78536.44,41.96
+2026-09,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Fixação,397,1668,62481.42,1322.58,61158.84,37107.73,24051.11,39.33
+2026-09,3,Ferrabrás Ferramentas,7,Ferrabrás Porto Alegre,Medição,383,858,362095.76,7029.34,355066.42,206722.83,148343.59,41.78
+2026-09,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,EPI,185,731,90249.91,1819.4,88430.51,54181.62,34248.89,38.73
+2026-09,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas elétricas,264,556,940549.88,20067.17,920482.71,553721.92,366760.79,39.84
+2026-09,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Ferramentas manuais,278,1047,129140.39,2580.68,126559.71,73560.05,52999.66,41.88
+2026-09,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Fixação,285,1169,43238.88,818.91,42419.97,25713.77,16706.2,39.38
+2026-09,3,Ferrabrás Ferramentas,8,Ferrabrás Caxias do Sul,Medição,271,586,249945.23,5182.31,244762.92,142483.37,102279.55,41.79
+2026-09,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,EPI,95,398,48609.28,1049.7,47559.58,28992.15,18567.43,39.04
+2026-09,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas elétricas,117,247,402640.48,8351.78,394288.7,235152.72,159135.98,40.36
+2026-09,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Ferramentas manuais,144,569,70073.42,1414.6,68658.82,39896.95,28761.87,41.89
+2026-09,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Fixação,149,583,19816.78,382.59,19434.19,11853.41,7580.78,39.01
+2026-09,3,Ferrabrás Ferramentas,9,Ferrabrás Pelotas,Medição,144,279,119014.87,2485.24,116529.63,68187.94,48341.69,41.48
+2026-09,4,Revesta Acabamentos,10,Revesta Campinas,Acessórios de pintura,371,1613,158299.22,3259.3,155039.92,103727.52,51312.4,33.1
+2026-09,4,Revesta Acabamentos,10,Revesta Campinas,Argamassas,334,1399,81100.58,1631.97,79468.61,50365.82,29102.79,36.62
+2026-09,4,Revesta Acabamentos,10,Revesta Campinas,Metais sanitários,370,802,552116.23,10633.79,541482.44,344964.64,196517.8,36.29
+2026-09,4,Revesta Acabamentos,10,Revesta Campinas,Pisos e revestimentos,369,1568,311841.86,6673.33,305168.53,190904.98,114263.55,37.44
+2026-09,4,Revesta Acabamentos,10,Revesta Campinas,Tintas,318,686,244737.72,4586.38,240151.34,159260.27,80891.07,33.68
+2026-09,4,Revesta Acabamentos,11,Revesta Sorocaba,Acessórios de pintura,292,1234,122581.08,2441.75,120139.33,79707.72,40431.61,33.65
+2026-09,4,Revesta Acabamentos,11,Revesta Sorocaba,Argamassas,227,968,54835.25,1112.31,53722.94,34185.21,19537.73,36.37
+2026-09,4,Revesta Acabamentos,11,Revesta Sorocaba,Metais sanitários,243,535,374883.55,7579.64,367303.91,234854.82,132449.09,36.06
+2026-09,4,Revesta Acabamentos,11,Revesta Sorocaba,Pisos e revestimentos,262,1056,202251.04,4132.22,198118.82,124932.6,73186.22,36.94
+2026-09,4,Revesta Acabamentos,11,Revesta Sorocaba,Tintas,219,487,163084.37,3488.63,159595.74,107330.97,52264.77,32.75
+2026-09,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Acessórios de pintura,149,641,62188.27,1362.05,60826.22,41519.47,19306.75,31.74
+2026-09,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Argamassas,139,536,29923.23,617.53,29305.7,19076.64,10229.06,34.9
+2026-09,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Metais sanitários,173,385,249290.6,5081.39,244209.21,159848.04,84361.17,34.54
+2026-09,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Pisos e revestimentos,146,585,114228.06,2214.61,112013.45,72282.21,39731.24,35.47
+2026-09,4,Revesta Acabamentos,12,Revesta Ribeirão Preto,Tintas,124,290,101143.73,2056.58,99087.15,67911.31,31175.84,31.46
+2026-09,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Ferramentas de jardim,256,804,154163.71,3400.86,150762.85,86250.79,64512.06,42.79
+2026-09,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Irrigação,357,994,342228.61,6863.84,335364.77,194248.72,141116.05,42.08
+2026-09,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Móveis externos,298,608,1126219.12,23948.58,1102270.54,633253.48,469017.06,42.55
+2026-09,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Piscina,405,1042,914080.44,18477.15,895603.29,547485.88,348117.41,38.87
+2026-09,5,Verdejar Jardim e Lazer,13,Verdejar Belo Horizonte,Vasos e decoração,331,1198,198458.24,4408.8,194049.44,113047.95,81001.49,41.74
+2026-09,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Ferramentas de jardim,177,571,99373.25,2237.74,97135.51,55111.03,42024.48,43.26
+2026-09,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Irrigação,242,660,221926.58,4597.59,217328.99,125739.02,91589.97,42.14
+2026-09,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Móveis externos,194,406,724036.97,15356.23,708680.74,405867.54,302813.2,42.73
+2026-09,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Piscina,288,797,729003.53,14432.73,714570.8,436079.14,278491.66,38.97
+2026-09,5,Verdejar Jardim e Lazer,14,Verdejar Uberlândia,Vasos e decoração,199,758,123810.87,2528.42,121282.45,71190.05,50092.4,41.3
+2026-09,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Ferramentas de jardim,103,295,63729.31,1203.84,62525.47,35689.87,26835.6,42.92
+2026-09,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Irrigação,148,438,143713.38,2925.94,140787.44,81265.88,59521.56,42.28
+2026-09,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Móveis externos,115,255,499139.83,10001.56,489138.27,281639.03,207499.24,42.42
+2026-09,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Piscina,148,386,345060.76,7679.4,337381.36,206708.08,130673.28,38.73
+2026-09,5,Verdejar Jardim e Lazer,15,Verdejar Juiz de Fora,Vasos e decoração,134,504,82946.26,1533.75,81412.51,47507.17,33905.34,41.65

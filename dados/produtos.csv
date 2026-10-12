@@ -1,0 +1,151 @@
+produto_id,sku,descricao,categoria,empresa_id
+1,SKU0001,Tubos e conexões modelo 1,Tubos e conexões,1
+2,SKU0002,Tubos e conexões modelo 2,Tubos e conexões,1
+3,SKU0003,Tubos e conexões modelo 3,Tubos e conexões,1
+4,SKU0004,Tubos e conexões modelo 4,Tubos e conexões,1
+5,SKU0005,Tubos e conexões modelo 5,Tubos e conexões,1
+6,SKU0006,Tubos e conexões modelo 6,Tubos e conexões,1
+7,SKU0007,Registros e válvulas modelo 1,Registros e válvulas,1
+8,SKU0008,Registros e válvulas modelo 2,Registros e válvulas,1
+9,SKU0009,Registros e válvulas modelo 3,Registros e válvulas,1
+10,SKU0010,Registros e válvulas modelo 4,Registros e válvulas,1
+11,SKU0011,Registros e válvulas modelo 5,Registros e válvulas,1
+12,SKU0012,Registros e válvulas modelo 6,Registros e válvulas,1
+13,SKU0013,Caixas d'água modelo 1,Caixas d'água,1
+14,SKU0014,Caixas d'água modelo 2,Caixas d'água,1
+15,SKU0015,Caixas d'água modelo 3,Caixas d'água,1
+16,SKU0016,Caixas d'água modelo 4,Caixas d'água,1
+17,SKU0017,Caixas d'água modelo 5,Caixas d'água,1
+18,SKU0018,Caixas d'água modelo 6,Caixas d'água,1
+19,SKU0019,Bombas modelo 1,Bombas,1
+20,SKU0020,Bombas modelo 2,Bombas,1
+21,SKU0021,Bombas modelo 3,Bombas,1
+22,SKU0022,Bombas modelo 4,Bombas,1
+23,SKU0023,Bombas modelo 5,Bombas,1
+24,SKU0024,Bombas modelo 6,Bombas,1
+25,SKU0025,Louças sanitárias modelo 1,Louças sanitárias,1
+26,SKU0026,Louças sanitárias modelo 2,Louças sanitárias,1
+27,SKU0027,Louças sanitárias modelo 3,Louças sanitárias,1
+28,SKU0028,Louças sanitárias modelo 4,Louças sanitárias,1
+29,SKU0029,Louças sanitárias modelo 5,Louças sanitárias,1
+30,SKU0030,Louças sanitárias modelo 6,Louças sanitárias,1
+31,SKU0031,Fios e cabos modelo 1,Fios e cabos,2
+32,SKU0032,Fios e cabos modelo 2,Fios e cabos,2
+33,SKU0033,Fios e cabos modelo 3,Fios e cabos,2
+34,SKU0034,Fios e cabos modelo 4,Fios e cabos,2
+35,SKU0035,Fios e cabos modelo 5,Fios e cabos,2
+36,SKU0036,Fios e cabos modelo 6,Fios e cabos,2
+37,SKU0037,Disjuntores modelo 1,Disjuntores,2
+38,SKU0038,Disjuntores modelo 2,Disjuntores,2
+39,SKU0039,Disjuntores modelo 3,Disjuntores,2
+40,SKU0040,Disjuntores modelo 4,Disjuntores,2
+41,SKU0041,Disjuntores modelo 5,Disjuntores,2
+42,SKU0042,Disjuntores modelo 6,Disjuntores,2
+43,SKU0043,Iluminação modelo 1,Iluminação,2
+44,SKU0044,Iluminação modelo 2,Iluminação,2
+45,SKU0045,Iluminação modelo 3,Iluminação,2
+46,SKU0046,Iluminação modelo 4,Iluminação,2
+47,SKU0047,Iluminação modelo 5,Iluminação,2
+48,SKU0048,Iluminação modelo 6,Iluminação,2
+49,SKU0049,Tomadas e interruptores modelo 1,Tomadas e interruptores,2
+50,SKU0050,Tomadas e interruptores modelo 2,Tomadas e interruptores,2
+51,SKU0051,Tomadas e interruptores modelo 3,Tomadas e interruptores,2
+52,SKU0052,Tomadas e interruptores modelo 4,Tomadas e interruptores,2
+53,SKU0053,Tomadas e interruptores modelo 5,Tomadas e interruptores,2
+54,SKU0054,Tomadas e interruptores modelo 6,Tomadas e interruptores,2
+55,SKU0055,Quadros elétricos modelo 1,Quadros elétricos,2
+56,SKU0056,Quadros elétricos modelo 2,Quadros elétricos,2
+57,SKU0057,Quadros elétricos modelo 3,Quadros elétricos,2
+58,SKU0058,Quadros elétricos modelo 4,Quadros elétricos,2
+59,SKU0059,Quadros elétricos modelo 5,Quadros elétricos,2
+60,SKU0060,Quadros elétricos modelo 6,Quadros elétricos,2
+61,SKU0061,Ferramentas manuais modelo 1,Ferramentas manuais,3
+62,SKU0062,Ferramentas manuais modelo 2,Ferramentas manuais,3
+63,SKU0063,Ferramentas manuais modelo 3,Ferramentas manuais,3
+64,SKU0064,Ferramentas manuais modelo 4,Ferramentas manuais,3
+65,SKU0065,Ferramentas manuais modelo 5,Ferramentas manuais,3
+66,SKU0066,Ferramentas manuais modelo 6,Ferramentas manuais,3
+67,SKU0067,Ferramentas elétricas modelo 1,Ferramentas elétricas,3
+68,SKU0068,Ferramentas elétricas modelo 2,Ferramentas elétricas,3
+69,SKU0069,Ferramentas elétricas modelo 3,Ferramentas elétricas,3
+70,SKU0070,Ferramentas elétricas modelo 4,Ferramentas elétricas,3
+71,SKU0071,Ferramentas elétricas modelo 5,Ferramentas elétricas,3
+72,SKU0072,Ferramentas elétricas modelo 6,Ferramentas elétricas,3
+73,SKU0073,Fixação modelo 1,Fixação,3
+74,SKU0074,Fixação modelo 2,Fixação,3
+75,SKU0075,Fixação modelo 3,Fixação,3
+76,SKU0076,Fixação modelo 4,Fixação,3
+77,SKU0077,Fixação modelo 5,Fixação,3
+78,SKU0078,Fixação modelo 6,Fixação,3
+79,SKU0079,Medição modelo 1,Medição,3
+80,SKU0080,Medição modelo 2,Medição,3
+81,SKU0081,Medição modelo 3,Medição,3
+82,SKU0082,Medição modelo 4,Medição,3
+83,SKU0083,Medição modelo 5,Medição,3
+84,SKU0084,Medição modelo 6,Medição,3
+85,SKU0085,EPI modelo 1,EPI,3
+86,SKU0086,EPI modelo 2,EPI,3
+87,SKU0087,EPI modelo 3,EPI,3
+88,SKU0088,EPI modelo 4,EPI,3
+89,SKU0089,EPI modelo 5,EPI,3
+90,SKU0090,EPI modelo 6,EPI,3
+91,SKU0091,Tintas modelo 1,Tintas,4
+92,SKU0092,Tintas modelo 2,Tintas,4
+93,SKU0093,Tintas modelo 3,Tintas,4
+94,SKU0094,Tintas modelo 4,Tintas,4
+95,SKU0095,Tintas modelo 5,Tintas,4
+96,SKU0096,Tintas modelo 6,Tintas,4
+97,SKU0097,Pisos e revestimentos modelo 1,Pisos e revestimentos,4
+98,SKU0098,Pisos e revestimentos modelo 2,Pisos e revestimentos,4
+99,SKU0099,Pisos e revestimentos modelo 3,Pisos e revestimentos,4
+100,SKU0100,Pisos e revestimentos modelo 4,Pisos e revestimentos,4
+101,SKU0101,Pisos e revestimentos modelo 5,Pisos e revestimentos,4
+102,SKU0102,Pisos e revestimentos modelo 6,Pisos e revestimentos,4
+103,SKU0103,Argamassas modelo 1,Argamassas,4
+104,SKU0104,Argamassas modelo 2,Argamassas,4
+105,SKU0105,Argamassas modelo 3,Argamassas,4
+106,SKU0106,Argamassas modelo 4,Argamassas,4
+107,SKU0107,Argamassas modelo 5,Argamassas,4
+108,SKU0108,Argamassas modelo 6,Argamassas,4
+109,SKU0109,Acessórios de pintura modelo 1,Acessórios de pintura,4
+110,SKU0110,Acessórios de pintura modelo 2,Acessórios de pintura,4
+111,SKU0111,Acessórios de pintura modelo 3,Acessórios de pintura,4
+112,SKU0112,Acessórios de pintura modelo 4,Acessórios de pintura,4
+113,SKU0113,Acessórios de pintura modelo 5,Acessórios de pintura,4
+114,SKU0114,Acessórios de pintura modelo 6,Acessórios de pintura,4
+115,SKU0115,Metais sanitários modelo 1,Metais sanitários,4
+116,SKU0116,Metais sanitários modelo 2,Metais sanitários,4
+117,SKU0117,Metais sanitários modelo 3,Metais sanitários,4
+118,SKU0118,Metais sanitários modelo 4,Metais sanitários,4
+119,SKU0119,Metais sanitários modelo 5,Metais sanitários,4
+120,SKU0120,Metais sanitários modelo 6,Metais sanitários,4
+121,SKU0121,Ferramentas de jardim modelo 1,Ferramentas de jardim,5
+122,SKU0122,Ferramentas de jardim modelo 2,Ferramentas de jardim,5
+123,SKU0123,Ferramentas de jardim modelo 3,Ferramentas de jardim,5
+124,SKU0124,Ferramentas de jardim modelo 4,Ferramentas de jardim,5
+125,SKU0125,Ferramentas de jardim modelo 5,Ferramentas de jardim,5
+126,SKU0126,Ferramentas de jardim modelo 6,Ferramentas de jardim,5
+127,SKU0127,Irrigação modelo 1,Irrigação,5
+128,SKU0128,Irrigação modelo 2,Irrigação,5
+129,SKU0129,Irrigação modelo 3,Irrigação,5
+130,SKU0130,Irrigação modelo 4,Irrigação,5
+131,SKU0131,Irrigação modelo 5,Irrigação,5
+132,SKU0132,Irrigação modelo 6,Irrigação,5
+133,SKU0133,Piscina modelo 1,Piscina,5
+134,SKU0134,Piscina modelo 2,Piscina,5
+135,SKU0135,Piscina modelo 3,Piscina,5
+136,SKU0136,Piscina modelo 4,Piscina,5
+137,SKU0137,Piscina modelo 5,Piscina,5
+138,SKU0138,Piscina modelo 6,Piscina,5
+139,SKU0139,Móveis externos modelo 1,Móveis externos,5
+140,SKU0140,Móveis externos modelo 2,Móveis externos,5
+141,SKU0141,Móveis externos modelo 3,Móveis externos,5
+142,SKU0142,Móveis externos modelo 4,Móveis externos,5
+143,SKU0143,Móveis externos modelo 5,Móveis externos,5
+144,SKU0144,Móveis externos modelo 6,Móveis externos,5
+145,SKU0145,Vasos e decoração modelo 1,Vasos e decoração,5
+146,SKU0146,Vasos e decoração modelo 2,Vasos e decoração,5
+147,SKU0147,Vasos e decoração modelo 3,Vasos e decoração,5
+148,SKU0148,Vasos e decoração modelo 4,Vasos e decoração,5
+149,SKU0149,Vasos e decoração modelo 5,Vasos e decoração,5
+150,SKU0150,Vasos e decoração modelo 6,Vasos e decoração,5

@@ -1,0 +1,16 @@
+loja_id,empresa_id,nome_loja,cidade,porte
+1,1,Aquaforte Curitiba Centro,Curitiba Centro,Grande
+2,1,Aquaforte Curitiba Boqueirão,Curitiba Boqueirão,Média
+3,1,Aquaforte Londrina,Londrina,Pequena
+4,2,Voltare Florianópolis,Florianópolis,Grande
+5,2,Voltare Joinville,Joinville,Média
+6,2,Voltare Blumenau,Blumenau,Pequena
+7,3,Ferrabrás Porto Alegre,Porto Alegre,Grande
+8,3,Ferrabrás Caxias do Sul,Caxias do Sul,Média
+9,3,Ferrabrás Pelotas,Pelotas,Pequena
+10,4,Revesta Campinas,Campinas,Grande
+11,4,Revesta Sorocaba,Sorocaba,Média
+12,4,Revesta Ribeirão Preto,Ribeirão Preto,Pequena
+13,5,Verdejar Belo Horizonte,Belo Horizonte,Grande
+14,5,Verdejar Uberlândia,Uberlândia,Média
+15,5,Verdejar Juiz de Fora,Juiz de Fora,Pequena
